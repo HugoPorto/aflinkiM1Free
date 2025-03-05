@@ -1,0 +1,4821 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2024-12-17 23:07-0300\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/AppController.php:279
+msgid "Você não tem permissão para acessar esta área."
+msgstr ""
+
+#: Controller/AppController.php:283
+msgid "Você precisa estar logado para acessar esta área."
+msgstr ""
+
+#: Controller/BrandsController.php:55;79
+msgid "The brand has been saved."
+msgstr ""
+
+#: Controller/BrandsController.php:59;83
+msgid "The brand could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BrandsController.php:100
+msgid "The brand has been deleted."
+msgstr ""
+
+#: Controller/BrandsController.php:102
+msgid "The brand could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BuilderController.php:247
+#: Controller/RequestsCoursesController.php:84
+msgid "The requests course has been deleted."
+msgstr ""
+
+#: Controller/BuilderController.php:249
+#: Controller/RequestsCoursesController.php:86
+msgid "The requests course could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategorySidebarsController.php:39;60
+msgid "The category sidebar has been saved."
+msgstr ""
+
+#: Controller/CategorySidebarsController.php:43;64
+msgid "The category sidebar could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CodesClassesController.php:58;86
+msgid "The codes class has been saved."
+msgstr ""
+
+#: Controller/CodesClassesController.php:62;90
+msgid "The codes class could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CodesClassesController.php:111
+msgid "The codes class has been deleted."
+msgstr ""
+
+#: Controller/CodesClassesController.php:113
+msgid "The codes class could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CodesController.php:64;90
+msgid "The code has been saved."
+msgstr ""
+
+#: Controller/CodesController.php:68;94
+msgid "The code could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CodesController.php:113
+msgid "The code has been deleted."
+msgstr ""
+
+#: Controller/CodesController.php:115
+msgid "The code could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CompanysController.php:83
+msgid "Empresa salva com sucesso."
+msgstr ""
+
+#: Controller/CompanysController.php:118;152;228
+msgid "Salvo com sucesso."
+msgstr ""
+
+#: Controller/CompanysController.php:179
+msgid "Empresa deletada com sucesso."
+msgstr ""
+
+#: Controller/ConfigsController.php:40
+msgid "The config has been saved."
+msgstr ""
+
+#: Controller/ConfigsController.php:44
+msgid "The config could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ConfigsTestesController.php:58;83
+msgid "The configs testis has been saved."
+msgstr ""
+
+#: Controller/ConfigsTestesController.php:62;87
+msgid "The configs testis could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ConfigsTestesController.php:105
+msgid "The configs testis has been deleted."
+msgstr ""
+
+#: Controller/ConfigsTestesController.php:107
+msgid "The configs testis could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CoursesDownloadsController.php:52;78;126
+msgid "The courses download has been saved."
+msgstr ""
+
+#: Controller/CoursesDownloadsController.php:56;82;131
+msgid "The courses download could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CoursesDownloadsController.php:154
+msgid "The courses download has been deleted."
+msgstr ""
+
+#: Controller/CoursesDownloadsController.php:156
+msgid "The courses download could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:56
+msgid "A categoria foi salva com sucesso."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:61
+#: Controller/StoresCategoriesController.php:52
+msgid "A categoria não pode ser ssalva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:86
+msgid "The digitals category has been saved."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:91
+msgid "The digitals category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:104
+msgid "The digitals category has been deleted."
+msgstr ""
+
+#: Controller/DigitalsCategoriesController.php:106
+msgid "The digitals category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:115
+msgid "Página criada com sucesso."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:120
+msgid "Não foi possível salvar. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:140
+msgid "The disclosurepage has been saved."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:144
+msgid "The disclosurepage could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:167
+msgid "The disclosurepage has been deleted."
+msgstr ""
+
+#: Controller/DisclosurepagesController.php:169
+msgid "The disclosurepage could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/GalerysController.php:46;78
+msgid "The galery has been saved."
+msgstr ""
+
+#: Controller/GalerysController.php:60;82
+msgid "The galery could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ImageProfilesController.php:73
+msgid "The image profile has been saved."
+msgstr ""
+
+#: Controller/ImageProfilesController.php:77
+msgid "The image profile could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:43
+#: Controller/LandpagesController.php:108
+msgid "Salvo com sucesso"
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:47
+msgid "Não pudemos salvar os dados. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:72
+msgid "The index sidebar has been saved."
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:76
+msgid "The index sidebar could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:97
+msgid "Registro removio com sucesso."
+msgstr ""
+
+#: Controller/IndexSidebarsController.php:99
+msgid "Não foi possível remover o registro. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/LandpagesController.php:86
+msgid "O registro foi salvo com sucesso"
+msgstr ""
+
+#: Controller/LandpagesController.php:91
+msgid "Não pudemos salvar o registro. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/LandpagesController.php:112
+msgid "Não pudemos salvar. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/LowsProductsController.php:51
+msgid "Você não pode passar zero como valor da baixa."
+msgstr ""
+
+#: Controller/LowsProductsController.php:73
+msgid "Seu estoque desse produto é inferior a quantidade que você digitou para dar baixa."
+msgstr ""
+
+#: Controller/LowsProductsController.php:93
+msgid "Seu estoque de produtos está zerado."
+msgstr ""
+
+#: Controller/LowsProductsController.php:101
+msgid "The lows product has been saved."
+msgstr ""
+
+#: Controller/LowsProductsController.php:106
+msgid "The lows product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MercadoPagoController.php:58;83
+msgid "The mercado pago has been saved."
+msgstr ""
+
+#: Controller/MercadoPagoController.php:62;87
+msgid "The mercado pago could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MercadoPagoController.php:105
+msgid "The mercado pago has been deleted."
+msgstr ""
+
+#: Controller/MercadoPagoController.php:107
+msgid "The mercado pago could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MessagesController.php:31;48
+msgid "The message has been saved."
+msgstr ""
+
+#: Controller/MessagesController.php:35;52
+msgid "The message could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MessagesController.php:62
+msgid "The message has been deleted."
+msgstr ""
+
+#: Controller/MessagesController.php:64
+msgid "The message could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PromptsCategoriesController.php:47;71
+msgid "The prompts category has been saved."
+msgstr ""
+
+#: Controller/PromptsCategoriesController.php:51;75
+msgid "The prompts category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PromptsController.php:44;66
+msgid "The prompt has been saved."
+msgstr ""
+
+#: Controller/PromptsController.php:48;70
+msgid "The prompt could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PromptsController.php:85
+msgid "The prompt has been deleted."
+msgstr ""
+
+#: Controller/PromptsController.php:87
+msgid "The prompt could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PromptsImagesController.php:58;83
+msgid "The prompts image has been saved."
+msgstr ""
+
+#: Controller/PromptsImagesController.php:62;87
+msgid "The prompts image could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PromptsImagesController.php:105
+msgid "The prompts image has been deleted."
+msgstr ""
+
+#: Controller/PromptsImagesController.php:107
+msgid "The prompts image could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RequestsProductsController.php:58;85
+msgid "The requests product has been saved."
+msgstr ""
+
+#: Controller/RequestsProductsController.php:62;89
+msgid "The requests product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RequestsProductsController.php:109
+msgid "The requests product has been deleted."
+msgstr ""
+
+#: Controller/RequestsProductsController.php:111
+msgid "The requests product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:43;64
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:47;68
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SlidesController.php:75
+msgid "The slide has been saved."
+msgstr ""
+
+#: Controller/SlidesController.php:80
+msgid "The slide could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SlidesController.php:109
+msgid "O slide foi salvo com sucesso."
+msgstr ""
+
+#: Controller/SlidesController.php:114
+msgid "Não foi possível salvar o slide. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/SlidesController.php:138
+msgid "The slide has been deleted."
+msgstr ""
+
+#: Controller/SlidesController.php:140
+msgid "The slide could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresAboutsController.php:36
+msgid "The stores about has been saved."
+msgstr ""
+
+#: Controller/StoresAboutsController.php:40
+msgid "The stores about could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresAddressController.php:77
+msgid "The stores addres has been saved."
+msgstr ""
+
+#: Controller/StoresAddressController.php:82
+msgid "The stores addres could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresBudgetsController.php:69
+msgid "Solicitação de orçamento recebido.."
+msgstr ""
+
+#: Controller/StoresBudgetsController.php:92
+msgid "The stores budget has been saved."
+msgstr ""
+
+#: Controller/StoresBudgetsController.php:96
+msgid "The stores budget could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresBudgetsController.php:113
+msgid "The stores budget has been deleted."
+msgstr ""
+
+#: Controller/StoresBudgetsController.php:115
+msgid "The stores budget could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresCardsController.php:137
+msgid "The stores card has been saved."
+msgstr ""
+
+#: Controller/StoresCardsController.php:142
+msgid "The stores card could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresCardsController.php:161
+msgid "The stores card has been deleted."
+msgstr ""
+
+#: Controller/StoresCardsController.php:163
+msgid "The stores card could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresCartsController.php:34
+msgid "Você não pode adicionar um item ao carrinho com a quantidade 0."
+msgstr ""
+
+#: Controller/StoresCartsController.php:93
+msgid "The stores cart has been deleted."
+msgstr ""
+
+#: Controller/StoresCartsController.php:95
+msgid "The stores cart could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresCategoriesController.php:77
+msgid "A categoria não pode ser editada. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresColorsController.php:59;84
+msgid "The stores color has been saved."
+msgstr ""
+
+#: Controller/StoresColorsController.php:63;88
+msgid "The stores color could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresColorsController.php:106
+msgid "The stores color has been deleted."
+msgstr ""
+
+#: Controller/StoresColorsController.php:108
+msgid "The stores color could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresCommentsController.php:91
+msgid "The stores comment has been saved."
+msgstr ""
+
+#: Controller/StoresCommentsController.php:95
+msgid "The stores comment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresCommentsController.php:114
+msgid "The stores comment has been deleted."
+msgstr ""
+
+#: Controller/StoresCommentsController.php:116
+msgid "The stores comment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresConfigsController.php:58;83
+msgid "The stores config has been saved."
+msgstr ""
+
+#: Controller/StoresConfigsController.php:62;87
+msgid "The stores config could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresConfigsController.php:105
+msgid "The stores config has been deleted."
+msgstr ""
+
+#: Controller/StoresConfigsController.php:107
+msgid "The stores config could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresContactsController.php:49
+msgid "The stores contact has been saved."
+msgstr ""
+
+#: Controller/StoresContactsController.php:53
+msgid "The stores contact could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresCoursesController.php:47
+msgid "Nenhuma ementa encontrada para esse curso"
+msgstr ""
+
+#: Controller/StoresDemandsController.php:38
+msgid "The stores demand has been saved."
+msgstr ""
+
+#: Controller/StoresDemandsController.php:41
+msgid "The stores demand could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresFinalcategoriesController.php:130
+msgid "The stores finalcategory has been deleted."
+msgstr ""
+
+#: Controller/StoresFinalcategoriesController.php:132
+msgid "The stores finalcategory could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresFootersController.php:54
+msgid "The stores footer has been saved."
+msgstr ""
+
+#: Controller/StoresFootersController.php:58
+msgid "The stores footer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresHoursController.php:54
+msgid "The stores hour has been saved."
+msgstr ""
+
+#: Controller/StoresHoursController.php:58
+msgid "The stores hour could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresImagesProductsController.php:58;83
+msgid "The stores images product has been saved."
+msgstr ""
+
+#: Controller/StoresImagesProductsController.php:62;87
+msgid "The stores images product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresImagesProductsController.php:105
+msgid "The stores images product has been deleted."
+msgstr ""
+
+#: Controller/StoresImagesProductsController.php:107
+msgid "The stores images product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresItemsDemandsController.php:90
+msgid "The stores items demand has been saved."
+msgstr ""
+
+#: Controller/StoresItemsDemandsController.php:94
+msgid "The stores items demand could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresLogosController copy.php:108
+msgid "The stores logo has been saved."
+msgstr ""
+
+#: Controller/StoresLogosController copy.php:112
+msgid "The stores logo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresLogosController.php:49
+msgid "Logo salva com sucesso."
+msgstr ""
+
+#: Controller/StoresMenusController.php:38
+msgid "Ementa salva com sucesso."
+msgstr ""
+
+#: Controller/StoresMenusController.php:43
+msgid "Sua ementa não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresMenusController.php:65
+msgid "The stores menu has been saved."
+msgstr ""
+
+#: Controller/StoresMenusController.php:70
+msgid "The stores menu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresMenusController.php:87
+msgid "A item foi deletado da emenat com sucesso com sucesso."
+msgstr ""
+
+#: Controller/StoresMenusController.php:89
+msgid "Não foi possível deletar o item da ementa. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresPagesController.php:55;79
+msgid "The stores page has been saved."
+msgstr ""
+
+#: Controller/StoresPagesController.php:59;83
+msgid "The stores page could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresPagesController.php:100
+msgid "The stores page has been deleted."
+msgstr ""
+
+#: Controller/StoresPagesController.php:102
+msgid "The stores page could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresProductsController.php:154
+msgid "O produto não pode ser salvo. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresProductsController.php:224
+msgid "O produto foi salvo com sucesso!"
+msgstr ""
+
+#: Controller/StoresProductsController.php:229;556
+msgid "O produto não pode ser salvo. Por favor tente novamente."
+msgstr ""
+
+#: Controller/StoresProductsController.php:277
+msgid "O produto foi salvo com sucessl!"
+msgstr ""
+
+#: Controller/StoresProductsController.php:303
+msgid "O produto foi removido com sucesso."
+msgstr ""
+
+#: Controller/StoresProductsController.php:305
+msgid "O produto não pode ser removido. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresProductsController.php:382
+msgid "Produto removido com sucesso!"
+msgstr ""
+
+#: Controller/StoresSlidersController.php:56
+msgid "The stores slider has been saved."
+msgstr ""
+
+#: Controller/StoresSlidersController.php:60
+msgid "The stores slider could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresSlidersController.php:108
+msgid "O Banner foi salvo com sucesso."
+msgstr ""
+
+#: Controller/StoresSlidersController.php:113
+msgid "O Banner não pode ser salvo. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresSlidersController.php:126
+msgid "The stores slider has been deleted."
+msgstr ""
+
+#: Controller/StoresSlidersController.php:128
+msgid "The stores slider could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:29
+msgid "Faça o login com super usuário para ver sua chave secreta."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:67
+msgid "The stores stripe config has been saved."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:71
+msgid "The stores stripe config could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:105
+msgid "A configuração doi salva com sucesso."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:109
+msgid "A configuração não pode ser salva. Por favor tente novamente."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:124
+msgid "Configuração apagada com sucesso."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:126
+msgid "A configuração não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresStripeConfigsController.php:152
+msgid "Senha incorreta.."
+msgstr ""
+
+#: Controller/StoresSubcategoriesController.php:74;107
+msgid "The stores subcategory has been saved."
+msgstr ""
+
+#: Controller/StoresSubcategoriesController.php:79;112
+msgid "The stores subcategory could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresSuperpassController.php:52
+msgid "O superpass foi salvo com sucesso."
+msgstr ""
+
+#: Controller/StoresSuperpassController.php:56
+msgid "O Superpass não pode ser salvo. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/StoresTermsController.php:70;99
+msgid "The stores term has been saved."
+msgstr ""
+
+#: Controller/StoresTermsController.php:74;103
+msgid "The stores term could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StoresTermsController.php:125
+msgid "The stores term has been deleted."
+msgstr ""
+
+#: Controller/StoresTermsController.php:127
+msgid "The stores term could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StoresVideosController.php:203
+msgid "The stores video has been deleted."
+msgstr ""
+
+#: Controller/StoresVideosController.php:205
+msgid "The stores video could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StripesController-bkt-11-01-2024.php:89
+#: Controller/StripesController.php:95
+msgid "Payment refused"
+msgstr ""
+
+#: Controller/TablesrootsController.php:44
+msgid "The tablesroot has been saved."
+msgstr ""
+
+#: Controller/TablesrootsController.php:47
+msgid "The tablesroot could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TablesrootsController.php:67
+msgid "Registro atualizado com sucesso"
+msgstr ""
+
+#: Controller/TablesrootsController.php:70
+msgid "O registro não pode ser salvo. Tente novamente."
+msgstr ""
+
+#: Controller/TablesrootsController.php:85
+msgid "The tablesroot has been deleted."
+msgstr ""
+
+#: Controller/TablesrootsController.php:87
+msgid "The tablesroot could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:63;88;547
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:66;92;550
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:106;469
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:108;472
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:131
+msgid "Nome de usuário ou password inválido!"
+msgstr ""
+
+#: Controller/UsersController.php:162;188
+msgid "Você não aceitou os termos de uso. Você precisa aceitar para prosseguir!"
+msgstr ""
+
+#: Controller/UsersController.php:169;195
+msgid "Usuário cadastrado com sucesso!"
+msgstr ""
+
+#: Controller/UsersController.php:222
+msgid "E-mail ou password inválido!"
+msgstr ""
+
+#: Controller/UsersController.php:309;336;378;405
+msgid "Usuário editado com sucesso."
+msgstr ""
+
+#: Controller/UsersController.php:314;341;383;410
+msgid "O usuário não pode ser editado. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/UsersController.php:449
+msgid "The about has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:452
+msgid "The about could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:503
+msgid "Selecione uma imagem"
+msgstr ""
+
+#: Controller/Component/UploadBannerDisclosureComponent.php:37
+#: Controller/Component/UploadImageProfileComponent.php:46
+msgid "A imagem foi salva com sucesso"
+msgstr ""
+
+#: Controller/Component/UploadBannerDisclosureComponent.php:39
+msgid "A imagem não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/Component/UploadBannerDisclosureComponent.php:44
+msgid "A imagem não foi enviada corretamente."
+msgstr ""
+
+#: Controller/Component/UploadImageProfileComponent.php:41
+msgid "A imagem não pode ser salva. Por favor tente novamente."
+msgstr ""
+
+#: Controller/Component/UploadLogoComponent.php:63
+#: Controller/Component/UploadSliderComponent.php:63
+msgid "Essa imagem não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/Component/UploadLogoComponent.php:67
+#: Controller/Component/UploadSliderComponent.php:67
+msgid "As imagens foram salvas com sucesso."
+msgstr ""
+
+#: Template/Brands/add.ctp:9
+#: Template/Brands/edit.ctp:9
+#: Template/Brands/index.ctp:9;20
+#: Template/Brands/view.ctp:9
+#: Template/CategorySidebars/add.ctp:9
+#: Template/CategorySidebars/view.ctp:9
+#: Template/Certificates/add.ctp:9
+#: Template/Certificates/edit.ctp:9
+#: Template/Certificates/view.ctp:9
+#: Template/Citys/add.ctp:9
+#: Template/Citys/edit.ctp:9
+#: Template/Citys/index.ctp:9;25
+#: Template/Codes/add.ctp:9
+#: Template/Codes/edit.ctp:9
+#: Template/Codes/view.ctp:9
+#: Template/CodesClasses/add.ctp:9
+#: Template/CodesClasses/edit.ctp:9
+#: Template/CodesClasses/index.ctp:9;33
+#: Template/CodesClasses/view.ctp:9
+#: Template/Configs/add.ctp:9
+#: Template/Configs/index.ctp:9;25
+#: Template/ConfigsTestes/add.ctp:9
+#: Template/ConfigsTestes/edit.ctp:9
+#: Template/ConfigsTestes/index.ctp:9;24
+#: Template/ConfigsTestes/view.ctp:9
+#: Template/CoursesDownloads/edit.ctp:9
+#: Template/CoursesDownloads/view.ctp:9
+#: Template/Cpfs/add.ctp:9
+#: Template/Cpfs/edit.ctp:9
+#: Template/Cpfs/index.ctp:9;25
+#: Template/Cpfs/view.ctp:9
+#: Template/Galerys/edit.ctp:9
+#: Template/Galerys/view.ctp:9;48
+#: Template/Homes/edit.ctp:9
+#: Template/ImageProfiles/add.ctp:3
+#: Template/ImageProfiles/edit.ctp:9
+#: Template/Landpages/edit.ctp:9
+#: Template/Landpages/view.ctp:9
+#: Template/MercadoPago/add.ctp:9
+#: Template/MercadoPago/edit.ctp:9
+#: Template/MercadoPago/index.ctp:9;26
+#: Template/MercadoPago/view.ctp:9
+#: Template/Prompts/add.ctp:9
+#: Template/Prompts/edit.ctp:9
+#: Template/Prompts/view.ctp:9
+#: Template/PromptsImages/add.ctp:9
+#: Template/PromptsImages/edit.ctp:9
+#: Template/PromptsImages/index.ctp:9;24
+#: Template/PromptsImages/view.ctp:9
+#: Template/RequestsCourses/add.ctp:9
+#: Template/RequestsCourses/edit.ctp:9
+#: Template/RequestsCourses/view.ctp:9
+#: Template/RequestsProducts/add.ctp:9
+#: Template/RequestsProducts/edit.ctp:9
+#: Template/RequestsProducts/index.ctp:9;29
+#: Template/RequestsProducts/view.ctp:9
+#: Template/States/add.ctp:9
+#: Template/States/edit.ctp:9
+#: Template/States/index.ctp:9;23
+#: Template/StoresAbouts/add.ctp:3
+#: Template/StoresAddress/add.ctp:9
+#: Template/StoresAddress/edit.ctp:9
+#: Template/StoresBudgets/edit.ctp:9
+#: Template/StoresCards/add.ctp:9
+#: Template/StoresCards/edit.ctp:9
+#: Template/StoresCards/index.ctp:9;29
+#: Template/StoresCards/view.ctp:9
+#: Template/StoresCarts/add.ctp:3
+#: Template/StoresCarts/edit.ctp:9
+#: Template/StoresCarts/index.ctp:9;28
+#: Template/StoresCarts/view.ctp:9
+#: Template/StoresColors/add.ctp:9
+#: Template/StoresColors/edit.ctp:9
+#: Template/StoresColors/index.ctp:9;26
+#: Template/StoresColors/view.ctp:9
+#: Template/StoresComments/add.ctp:9
+#: Template/StoresComments/edit.ctp:9
+#: Template/StoresConfigs/add.ctp:9
+#: Template/StoresConfigs/edit.ctp:9
+#: Template/StoresConfigs/index.ctp:9;25
+#: Template/StoresConfigs/view.ctp:9
+#: Template/StoresContacts/add.ctp:9
+#: Template/StoresContacts/view.ctp:9
+#: Template/StoresDemands/add.ctp:9
+#: Template/StoresHours/add.ctp:9
+#: Template/StoresImagesProducts/add.ctp:9
+#: Template/StoresImagesProducts/edit.ctp:9
+#: Template/StoresImagesProducts/index.ctp:9;24
+#: Template/StoresImagesProducts/view.ctp:9
+#: Template/StoresItemsDemands/add.ctp:9
+#: Template/StoresItemsDemands/edit.ctp:9
+#: Template/StoresItemsDemands/view.ctp:9
+#: Template/StoresLogos/view.ctp:9
+#: Template/StoresMenus/view.ctp:9
+#: Template/StoresMessages/add.ctp:9
+#: Template/StoresMessages/edit.ctp:9
+#: Template/StoresPages/add.ctp:9
+#: Template/StoresPages/edit.ctp:9
+#: Template/StoresPages/index.ctp:9;25
+#: Template/StoresPages/view.ctp:9
+#: Template/StoresPartners/view.ctp:10
+#: Template/StoresSliders/view.ctp:9
+#: Template/Tablesroots/view.ctp:9
+#: Template/Users/add.ctp:9
+#: Template/VideosVieweds/add.ctp:9
+#: Template/VideosVieweds/edit.ctp:9
+#: Template/VideosVieweds/index.ctp:9;30
+#: Template/VideosVieweds/view.ctp:9
+msgid "Actions"
+msgstr ""
+
+#: Template/Brands/add.ctp:10
+#: Template/Brands/edit.ctp:16
+#: Template/Brands/view.ctp:12
+msgid "List Brands"
+msgstr ""
+
+#: Template/Brands/add.ctp:16
+msgid "Add Brand"
+msgstr ""
+
+#: Template/Brands/add.ctp:21
+#: Template/Brands/edit.ctp:27
+#: Template/CategorySidebars/add.ctp:21
+#: Template/Certificates/add.ctp:26
+#: Template/Certificates/edit.ctp:32
+#: Template/Citys/add.ctp:24
+#: Template/Citys/edit.ctp:30
+#: Template/Codes/add.ctp:31
+#: Template/Codes/edit.ctp:37
+#: Template/CodesClasses/add.ctp:33
+#: Template/CodesClasses/edit.ctp:39
+#: Template/Configs/add.ctp:24
+#: Template/ConfigsTestes/add.ctp:24
+#: Template/ConfigsTestes/edit.ctp:30
+#: Template/CoursesDownloads/edit.ctp:40
+#: Template/Cpfs/add.ctp:24
+#: Template/Cpfs/edit.ctp:30
+#: Template/Disclosurepages/edit.ctp:15
+#: Template/Galerys/edit.ctp:29
+#: Template/Homes/edit.ctp:38
+#: Template/ImageProfiles/add.ctp:21
+#: Template/ImageProfiles/edit.ctp:33
+#: Template/Landpages/edit.ctp:31
+#: Template/MercadoPago/add.ctp:25
+#: Template/MercadoPago/edit.ctp:31
+#: Template/Prompts/add.ctp:31
+#: Template/Prompts/edit.ctp:37
+#: Template/PromptsImages/add.ctp:24
+#: Template/PromptsImages/edit.ctp:30
+#: Template/RequestsCourses/add.ctp:29
+#: Template/RequestsCourses/edit.ctp:35
+#: Template/RequestsProducts/add.ctp:28
+#: Template/RequestsProducts/edit.ctp:34
+#: Template/States/add.ctp:22
+#: Template/States/edit.ctp:28
+#: Template/StoresAbouts/add.ctp:24
+#: Template/StoresAddress/add.ctp:32
+#: Template/StoresAddress/edit.ctp:38
+#: Template/StoresBudgets/edit.ctp:29
+#: Template/StoresCards/add.ctp:28
+#: Template/StoresCards/edit.ctp:34
+#: Template/StoresCarts/add.ctp:21
+#: Template/StoresCarts/edit.ctp:33
+#: Template/StoresColors/add.ctp:25
+#: Template/StoresColors/edit.ctp:31
+#: Template/StoresComments/add.ctp:27
+#: Template/StoresComments/edit.ctp:33
+#: Template/StoresConfigs/add.ctp:24
+#: Template/StoresConfigs/edit.ctp:30
+#: Template/StoresContacts/add.ctp:24
+#: Template/StoresDemands/add.ctp:24
+#: Template/StoresHours/add.ctp:24
+#: Template/StoresImagesProducts/add.ctp:24
+#: Template/StoresImagesProducts/edit.ctp:30
+#: Template/StoresItemsDemands/add.ctp:27
+#: Template/StoresItemsDemands/edit.ctp:33
+#: Template/StoresMessages/add.ctp:23
+#: Template/StoresMessages/edit.ctp:29
+#: Template/StoresPages/add.ctp:32
+#: Template/StoresPages/edit.ctp:38
+#: Template/Users/add.ctp:30
+#: Template/Users/update_password.ctp:17
+#: Template/VideosVieweds/add.ctp:29
+#: Template/VideosVieweds/edit.ctp:35
+msgid "Submit"
+msgstr ""
+
+#: Template/Brands/edit.ctp:11
+#: Template/Brands/index.ctp:31
+#: Template/Certificates/edit.ctp:11
+#: Template/Citys/edit.ctp:11
+#: Template/Citys/index.ctp:39
+#: Template/Codes/edit.ctp:11
+#: Template/CodesClasses/edit.ctp:11
+#: Template/CodesClasses/index.ctp:49
+#: Template/Configs/index.ctp:39
+#: Template/ConfigsTestes/edit.ctp:11
+#: Template/ConfigsTestes/index.ctp:37
+#: Template/CoursesDownloads/edit.ctp:11
+#: Template/Cpfs/edit.ctp:11
+#: Template/Cpfs/index.ctp:39
+#: Template/Galerys/edit.ctp:11
+#: Template/Galerys/index.ctp:27
+#: Template/Galerys/view.ctp:60
+#: Template/Homes/edit.ctp:11
+#: Template/ImageProfiles/edit.ctp:11
+#: Template/Landpages/edit.ctp:11
+#: Template/MercadoPago/edit.ctp:11
+#: Template/MercadoPago/index.ctp:41
+#: Template/Prompts/edit.ctp:11
+#: Template/PromptsImages/edit.ctp:11
+#: Template/PromptsImages/index.ctp:37
+#: Template/RequestsCourses/edit.ctp:11
+#: Template/RequestsProducts/edit.ctp:11
+#: Template/RequestsProducts/index.ctp:45
+#: Template/States/edit.ctp:11
+#: Template/States/index.ctp:37
+#: Template/StoresAddress/edit.ctp:11
+#: Template/StoresBudgets/edit.ctp:11
+#: Template/StoresCards/edit.ctp:11
+#: Template/StoresCards/index.ctp:47
+#: Template/StoresCarts/edit.ctp:11
+#: Template/StoresCarts/index.ctp:43
+#: Template/StoresColors/edit.ctp:11
+#: Template/StoresColors/index.ctp:41
+#: Template/StoresComments/edit.ctp:11
+#: Template/StoresConfigs/edit.ctp:11
+#: Template/StoresConfigs/index.ctp:39
+#: Template/StoresImagesProducts/edit.ctp:11
+#: Template/StoresImagesProducts/index.ctp:37
+#: Template/StoresItemsDemands/edit.ctp:11
+#: Template/StoresMessages/edit.ctp:11
+#: Template/StoresPages/edit.ctp:11
+#: Template/StoresPages/index.ctp:41
+#: Template/StoresVideos/index.ctp:18;61;77
+#: Template/VideosVieweds/edit.ctp:11
+#: Template/VideosVieweds/index.ctp:45
+msgid "Delete"
+msgstr ""
+
+#: Template/Brands/edit.ctp:13
+#: Template/Brands/index.ctp:31
+#: Template/Brands/view.ctp:11
+#: Template/CategorySidebars/view.ctp:11
+#: Template/Certificates/edit.ctp:13
+#: Template/Certificates/view.ctp:11
+#: Template/Citys/edit.ctp:13
+#: Template/Citys/index.ctp:39
+#: Template/Codes/edit.ctp:13
+#: Template/Codes/index.ctp:44
+#: Template/Codes/view.ctp:11
+#: Template/CodesClasses/edit.ctp:13
+#: Template/CodesClasses/index.ctp:49
+#: Template/CodesClasses/view.ctp:11
+#: Template/Configs/index.ctp:39
+#: Template/ConfigsTestes/edit.ctp:13
+#: Template/ConfigsTestes/index.ctp:37
+#: Template/ConfigsTestes/view.ctp:11
+#: Template/CoursesDownloads/edit.ctp:13
+#: Template/CoursesDownloads/view.ctp:11
+#: Template/Cpfs/edit.ctp:13
+#: Template/Cpfs/index.ctp:39
+#: Template/Cpfs/view.ctp:11
+#: Template/Galerys/edit.ctp:13
+#: Template/Galerys/index.ctp:27
+#: Template/Galerys/view.ctp:11;60
+#: Template/Homes/edit.ctp:13
+#: Template/ImageProfiles/edit.ctp:13
+#: Template/Landpages/edit.ctp:13
+#: Template/Landpages/view.ctp:11
+#: Template/MercadoPago/edit.ctp:13
+#: Template/MercadoPago/index.ctp:41
+#: Template/MercadoPago/view.ctp:11
+#: Template/Prompts/edit.ctp:13
+#: Template/Prompts/view.ctp:11
+#: Template/PromptsImages/edit.ctp:13
+#: Template/PromptsImages/index.ctp:37
+#: Template/PromptsImages/view.ctp:11
+#: Template/RequestsCourses/edit.ctp:13
+#: Template/RequestsCourses/view.ctp:11
+#: Template/RequestsProducts/edit.ctp:13
+#: Template/RequestsProducts/index.ctp:45
+#: Template/RequestsProducts/view.ctp:11
+#: Template/States/edit.ctp:13
+#: Template/States/index.ctp:37
+#: Template/StoresAddress/edit.ctp:13
+#: Template/StoresBudgets/edit.ctp:13
+#: Template/StoresCards/edit.ctp:13
+#: Template/StoresCards/index.ctp:47
+#: Template/StoresCards/view.ctp:11
+#: Template/StoresCarts/edit.ctp:13
+#: Template/StoresCarts/index.ctp:43
+#: Template/StoresCarts/view.ctp:11
+#: Template/StoresColors/edit.ctp:13
+#: Template/StoresColors/index.ctp:41
+#: Template/StoresColors/view.ctp:11
+#: Template/StoresComments/edit.ctp:13
+#: Template/StoresConfigs/edit.ctp:13
+#: Template/StoresConfigs/index.ctp:39
+#: Template/StoresConfigs/view.ctp:11
+#: Template/StoresContacts/view.ctp:11
+#: Template/StoresImagesProducts/edit.ctp:13
+#: Template/StoresImagesProducts/index.ctp:37
+#: Template/StoresImagesProducts/view.ctp:11
+#: Template/StoresItemsDemands/edit.ctp:13
+#: Template/StoresItemsDemands/view.ctp:11
+#: Template/StoresLogos/view.ctp:11
+#: Template/StoresMenus/view.ctp:11
+#: Template/StoresMessages/edit.ctp:13
+#: Template/StoresPages/edit.ctp:13
+#: Template/StoresPages/index.ctp:41
+#: Template/StoresPages/view.ctp:11
+#: Template/StoresPartners/view.ctp:12
+#: Template/StoresSliders/view.ctp:11
+#: Template/Tablesroots/view.ctp:11
+#: Template/VideosVieweds/edit.ctp:13
+#: Template/VideosVieweds/index.ctp:45
+#: Template/VideosVieweds/view.ctp:11
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Brands/edit.ctp:22
+#: Template/Brands/view.ctp:10
+msgid "Edit Brand"
+msgstr ""
+
+#: Template/Brands/index.ctp:10
+#: Template/Brands/view.ctp:13
+msgid "New Brand"
+msgstr ""
+
+#: Template/Brands/index.ctp:14
+msgid "Brands"
+msgstr ""
+
+#: Template/Brands/index.ctp:29
+#: Template/Citys/index.ctp:37
+#: Template/CodesClasses/index.ctp:47
+#: Template/Configs/index.ctp:37
+#: Template/ConfigsTestes/index.ctp:35
+#: Template/Cpfs/index.ctp:37
+#: Template/Galerys/index.ctp:25
+#: Template/Galerys/view.ctp:58
+#: Template/MercadoPago/index.ctp:39
+#: Template/Prompts/index.ctp:36
+#: Template/PromptsImages/index.ctp:35
+#: Template/RequestsProducts/index.ctp:43
+#: Template/States/index.ctp:35
+#: Template/StoresCards/index.ctp:45
+#: Template/StoresCarts/index.ctp:41
+#: Template/StoresColors/index.ctp:39
+#: Template/StoresConfigs/index.ctp:37
+#: Template/StoresImagesProducts/index.ctp:35
+#: Template/StoresPages/index.ctp:39
+#: Template/VideosVieweds/index.ctp:43
+#: View/Helper/PaginatorHelper.php:1220
+msgid "View"
+msgstr ""
+
+#: Template/Brands/index.ctp:30
+#: Template/Citys/index.ctp:38
+#: Template/CodesClasses/index.ctp:48
+#: Template/Configs/index.ctp:38
+#: Template/ConfigsTestes/index.ctp:36
+#: Template/Cpfs/index.ctp:38
+#: Template/Galerys/index.ctp:26
+#: Template/Galerys/view.ctp:59
+#: Template/MercadoPago/index.ctp:40
+#: Template/Prompts/index.ctp:37
+#: Template/PromptsImages/index.ctp:36
+#: Template/RequestsProducts/index.ctp:44
+#: Template/States/index.ctp:36
+#: Template/StoresCards/index.ctp:46
+#: Template/StoresCarts/index.ctp:42
+#: Template/StoresColors/index.ctp:40
+#: Template/StoresConfigs/index.ctp:38
+#: Template/StoresImagesProducts/index.ctp:36
+#: Template/StoresPages/index.ctp:40
+#: Template/VideosVieweds/index.ctp:44
+msgid "Edit"
+msgstr ""
+
+#: Template/Brands/index.ctp:39
+#: Template/Citys/index.ctp:47
+#: Template/CodesClasses/index.ctp:57
+#: Template/Configs/index.ctp:47
+#: Template/ConfigsTestes/index.ctp:45
+#: Template/Cpfs/index.ctp:47
+#: Template/MercadoPago/index.ctp:49
+#: Template/PromptsImages/index.ctp:45
+#: Template/RequestsProducts/index.ctp:53
+#: Template/States/index.ctp:45
+#: Template/StoresCards/index.ctp:55
+#: Template/StoresCarts/index.ctp:51
+#: Template/StoresColors/index.ctp:49
+#: Template/StoresConfigs/index.ctp:47
+#: Template/StoresImagesProducts/index.ctp:45
+#: Template/StoresPages/index.ctp:49
+#: Template/VideosVieweds/index.ctp:53
+msgid "first"
+msgstr ""
+
+#: Template/Brands/index.ctp:40
+#: Template/Citys/index.ctp:48
+#: Template/CodesClasses/index.ctp:58
+#: Template/Configs/index.ctp:48
+#: Template/ConfigsTestes/index.ctp:46
+#: Template/Cpfs/index.ctp:48
+#: Template/MercadoPago/index.ctp:50
+#: Template/PromptsImages/index.ctp:46
+#: Template/RequestsProducts/index.ctp:54
+#: Template/States/index.ctp:46
+#: Template/StoresCards/index.ctp:56
+#: Template/StoresCarts/index.ctp:52
+#: Template/StoresColors/index.ctp:50
+#: Template/StoresConfigs/index.ctp:48
+#: Template/StoresImagesProducts/index.ctp:46
+#: Template/StoresPages/index.ctp:50
+#: Template/VideosVieweds/index.ctp:54
+msgid "previous"
+msgstr ""
+
+#: Template/Brands/index.ctp:42
+#: Template/Citys/index.ctp:50
+#: Template/CodesClasses/index.ctp:60
+#: Template/Configs/index.ctp:50
+#: Template/ConfigsTestes/index.ctp:48
+#: Template/Cpfs/index.ctp:50
+#: Template/MercadoPago/index.ctp:52
+#: Template/PromptsImages/index.ctp:48
+#: Template/RequestsProducts/index.ctp:56
+#: Template/States/index.ctp:48
+#: Template/StoresCards/index.ctp:58
+#: Template/StoresCarts/index.ctp:54
+#: Template/StoresColors/index.ctp:52
+#: Template/StoresConfigs/index.ctp:50
+#: Template/StoresImagesProducts/index.ctp:48
+#: Template/StoresPages/index.ctp:52
+#: Template/VideosVieweds/index.ctp:56
+msgid "next"
+msgstr ""
+
+#: Template/Brands/index.ctp:43
+#: Template/Citys/index.ctp:51
+#: Template/CodesClasses/index.ctp:61
+#: Template/Configs/index.ctp:51
+#: Template/ConfigsTestes/index.ctp:49
+#: Template/Cpfs/index.ctp:51
+#: Template/MercadoPago/index.ctp:53
+#: Template/PromptsImages/index.ctp:49
+#: Template/RequestsProducts/index.ctp:57
+#: Template/States/index.ctp:49
+#: Template/StoresCards/index.ctp:59
+#: Template/StoresCarts/index.ctp:55
+#: Template/StoresColors/index.ctp:53
+#: Template/StoresConfigs/index.ctp:51
+#: Template/StoresImagesProducts/index.ctp:49
+#: Template/StoresPages/index.ctp:53
+#: Template/VideosVieweds/index.ctp:57
+msgid "last"
+msgstr ""
+
+#: Template/Brands/index.ctp:45
+#: Template/Citys/index.ctp:53
+#: Template/CodesClasses/index.ctp:63
+#: Template/Configs/index.ctp:53
+#: Template/ConfigsTestes/index.ctp:51
+#: Template/Cpfs/index.ctp:53
+#: Template/MercadoPago/index.ctp:55
+#: Template/PromptsImages/index.ctp:51
+#: Template/RequestsProducts/index.ctp:59
+#: Template/States/index.ctp:51
+#: Template/StoresCards/index.ctp:61
+#: Template/StoresCarts/index.ctp:57
+#: Template/StoresColors/index.ctp:55
+#: Template/StoresConfigs/index.ctp:53
+#: Template/StoresImagesProducts/index.ctp:51
+#: Template/StoresPages/index.ctp:55
+#: Template/VideosVieweds/index.ctp:59
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Brands/view.ctp:11
+msgid "Delete Brand"
+msgstr ""
+
+#: Template/Brands/view.ctp:20
+msgid "Tes"
+msgstr ""
+
+#: Template/Brands/view.ctp:24
+#: Template/CategorySidebars/view.ctp:24
+#: Template/Certificates/view.ctp:32
+#: Template/Codes/view.ctp:44
+#: Template/CodesClasses/view.ctp:44
+#: Template/ConfigsTestes/view.ctp:26
+#: Template/CoursesDownloads/view.ctp:48
+#: Template/Cpfs/view.ctp:30
+#: Template/Galerys/view.ctp:26;43
+#: Template/ImageProfiles/view.ctp:29
+#: Template/IndexSidebars/view.ctp:41
+#: Template/Landpages/view.ctp:30
+#: Template/MercadoPago/view.ctp:34
+#: Template/Prompts/view.ctp:40
+#: Template/PromptsImages/view.ctp:26
+#: Template/RequestsCourses/view.ctp:32
+#: Template/RequestsProducts/view.ctp:32
+#: Template/StoresCards/view.ctp:46
+#: Template/StoresCarts/view.ctp:36
+#: Template/StoresColors/view.ctp:34
+#: Template/StoresConfigs/view.ctp:30
+#: Template/StoresContacts/view.ctp:30
+#: Template/StoresImagesProducts/view.ctp:26
+#: Template/StoresItemsDemands/view.ctp:36
+#: Template/StoresLogos/view.ctp:24
+#: Template/StoresMenus/view.ctp:42
+#: Template/StoresPages/view.ctp:44
+#: Template/StoresPartners/view.ctp:31
+#: Template/StoresSliders/view.ctp:38
+#: Template/Tablesroots/view.ctp:32
+#: Template/Users/view.ctp:34
+#: Template/VideosVieweds/view.ctp:38
+msgid "Id"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:6;57
+#: Template/Builder/requests.ctp:6;45
+#: Template/Citys/view.ctp:13
+#: Template/Companys/view.ctp:31
+#: Template/CoursesDownloads/index.ctp:12;46
+#: Template/DigitalsCategories/view.ctp:22
+#: Template/Disclosurepages/view.ctp:28
+#: Template/Element/store_load_users.ctp:11;33;54;76;97;119
+#: Template/LowsProducts/view.ctp:14
+#: Template/PromptsCategories/view.ctp:25
+#: Template/RequestsCourses/index.ctp:8;49
+#: Template/Slides/index.ctp:20;56
+#: Template/States/view.ctp:13
+#: Template/StoresAbouts/index.ctp:6;28
+#: Template/StoresAbouts/view.ctp:11
+#: Template/StoresAddress/view.ctp:38
+#: Template/StoresAddress/view_by_demand.ctp:39
+#: Template/StoresBudgets/view.ctp:14
+#: Template/StoresCategories/view.ctp:18
+#: Template/StoresComments/view.ctp:14
+#: Template/StoresContacts/index.ctp:6;44
+#: Template/StoresCourses/index.ctp:13;72
+#: Template/StoresDemands/index.ctp:6;76
+#: Template/StoresFinalcategories/view.ctp:13
+#: Template/StoresFooters/view.ctp:6
+#: Template/StoresHours/view.ctp:14
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:6;30
+#: Template/StoresItemsDemands/index.ctp:6;28
+#: Template/StoresLogos/index.ctp:6;34
+#: Template/StoresMenus/index.ctp:15;46
+#: Template/StoresMessages/view.ctp:6
+#: Template/StoresPartners/index.ctp:19;53
+#: Template/StoresStripeConfigs/index.ctp:18;56
+#: Template/StoresSubcategories/view.ctp:13
+#: Template/StoresTerms/view.ctp:24
+#: Template/StoresTitles/index.ctp:6;28
+msgid "Código"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:7
+#: Template/Builder/requests.ctp:7
+#: Template/CoursesDownloads/index.ctp:15;49
+#: Template/Disclosurepages/view.ctp:8
+#: Template/RequestsCourses/index.ctp:9
+#: Template/Slides/index.ctp:22;58
+#: Template/Slides/view.ctp:21
+#: Template/StoresCourses/course_view.ctp:61
+#: Template/StoresCourses/index.ctp:14;73
+#: Template/StoresCourses/slide.ctp:16
+#: Template/StoresMenus/index.ctp:17;48
+#: Template/StoresVideos/index.ctp:13;72
+#: Template/StoresVideos/view.ctp:22
+msgid "Curso"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:8;59
+#: Template/Builder/requests.ctp:8;47
+msgid "Aprovação"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:9;60
+#: Template/Builder/requests.ctp:9;48
+#: Template/CoursesDownloads/index.ctp:21;55
+#: Template/LowsProducts/view.ctp:3
+#: Template/RequestsCourses/index.ctp:12;54
+#: Template/Roles/add.ctp:3
+#: Template/Roles/edit.ctp:3
+#: Template/Slides/index.ctp:24;60
+#: Template/StoresAbouts/index.ctp:8;30
+#: Template/StoresAbouts/view.ctp:3
+#: Template/StoresContacts/index.ctp:16;54
+#: Template/StoresCourses/index.ctp:19;78
+#: Template/StoresDemands/edit.ctp:3
+#: Template/StoresDemands/index.ctp:13;83
+#: Template/StoresFooters/add.ctp:3
+#: Template/StoresFooters/index.ctp:8;27
+#: Template/StoresHours/view.ctp:3
+#: Template/StoresLogos/add.ctp:3
+#: Template/StoresLogos/index.ctp:10;38
+#: Template/StoresMenus/index.ctp:19;50
+#: Template/StoresPartners/index.ctp:24;58
+#: Template/StoresSliders/add.ctp:3
+#: Template/StoresSliders/index.ctp:10;38
+#: Template/StoresStripeConfigs/add.ctp:3
+#: Template/StoresStripeConfigs/index.ctp:23;61
+#: Template/StoresStripeConfigs/view.ctp:3
+#: Template/StoresSuperpass/add.ctp:3
+#: Template/StoresSuperpass/edit.ctp:3
+#: Template/StoresTitles/index.ctp:10;32
+msgid "Ações"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:39
+msgid "<i class=\"fas fa-globe\"></i> Criar Landing Page"
+msgstr ""
+
+#: Template/Builder/myaffiliates.ctp:58
+#: Template/Builder/requests.ctp:46
+#: Template/RequestsCourses/index.ctp:50
+msgid "Código Curso"
+msgstr ""
+
+#: Template/CategorySidebars/add.ctp:10
+#: Template/CategorySidebars/view.ctp:12
+msgid "List Category Sidebars"
+msgstr ""
+
+#: Template/CategorySidebars/add.ctp:16
+msgid "Add Category Sidebar"
+msgstr ""
+
+#: Template/CategorySidebars/edit.ctp:20
+#: Template/Disclosurepages/add.ctp:356
+#: Template/IndexSidebars/add.ctp:86
+#: Template/IndexSidebars/edit.ctp:79
+#: Template/PromptsCategories/add.ctp:20
+#: Template/PromptsCategories/edit.ctp:20
+#: Template/StoresCourses/edit.ctp:195
+#: Template/StoresCourses/edit_photo.ctp:21
+#: Template/Tablesroots/add.ctp:44
+#: Template/Tablesroots/edit.ctp:44
+#: Template/Users/edit.ctp:71
+msgid "Salvar"
+msgstr ""
+
+#: Template/CategorySidebars/index.ctp:21
+#: Template/Codes/index.ctp:43
+#: Template/Companys/edit.ctp:112
+#: Template/Companys/edit_photo.ctp:26
+#: Template/Companys/index.ctp:61
+#: Template/Configs/edit.ctp:50
+#: Template/Configs/view.ctp:18;45
+#: Template/CoursesDownloads/index.ctp:38
+#: Template/DigitalsCategories/edit.ctp:38
+#: Template/DigitalsCategories/index.ctp:30
+#: Template/IndexSidebars/index.ctp:33
+#: Template/PromptsCategories/index.ctp:31
+#: Template/PromptsCategories/view.ctp:5
+#: Template/Roles/edit.ctp:22
+#: Template/Slides/edit.ctp:49
+#: Template/Slides/index.ctp:41
+#: Template/StoresAbouts/edit.ctp:10;22
+#: Template/StoresAbouts/index.ctp:18
+#: Template/StoresAbouts/view.ctp:4
+#: Template/StoresCategories/edit.ctp:38
+#: Template/StoresCategories/index.ctp:30
+#: Template/StoresContacts/edit.ctp:10;111
+#: Template/StoresContacts/index.ctp:34
+#: Template/StoresDemands/edit.ctp:15
+#: Template/StoresFinalcategories/edit.ctp:43
+#: Template/StoresFinalcategories/index.ctp:36
+#: Template/StoresFooters/edit.ctp:24
+#: Template/StoresFooters/index.ctp:18
+#: Template/StoresHours/edit.ctp:10;22
+#: Template/StoresHours/index.ctp:18
+#: Template/StoresHours/view.ctp:4
+#: Template/StoresLogos/edit.ctp:16
+#: Template/StoresLogos/index copy.ctp:24
+#: Template/StoresLogos/index.ctp:24
+#: Template/StoresMenus/edit.ctp:48
+#: Template/StoresMenus/index.ctp:31
+#: Template/StoresPartners/edit.ctp:37
+#: Template/StoresPartners/index.ctp:38
+#: Template/StoresProducts/edit.ctp:171
+#: Template/StoresProducts/edit_barcode.ctp:18
+#: Template/StoresProducts/edit_photo.ctp:96
+#: Template/StoresProducts/edit_qrcode.ctp:18
+#: Template/StoresProducts/index.ctp:68
+#: Template/StoresProducts/relationship_products.ctp:78
+#: Template/StoresProducts/view.ctp:9
+#: Template/StoresSliders/edit.ctp:32
+#: Template/StoresSliders/index.ctp:24
+#: Template/StoresStripeConfigs/edit.ctp:16
+#: Template/StoresStripeConfigs/index.ctp:46
+#: Template/StoresSubcategories/edit.ctp:43
+#: Template/StoresSubcategories/index.ctp:43
+#: Template/StoresSuperpass/edit.ctp:16
+#: Template/StoresTerms/edit.ctp:34
+#: Template/StoresTerms/index.ctp:16;28
+#: Template/StoresTerms/view.ctp:12
+#: Template/StoresTitles/edit.ctp:25
+#: Template/StoresTitles/index.ctp:21
+#: Template/StoresVideos/edit.ctp:89
+#: Template/StoresVideos/edit_photo.ctp:36
+#: Template/StoresVideos/index.ctp:15;35;54;74
+#: Template/Tablesroots/index.ctp:33
+#: Template/Users/editcommon.ctp:38
+#: Template/Users/index.ctp:32
+msgid "Editar"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:10
+msgid "Edit Category Sidebar"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:11
+msgid "Delete Category Sidebar"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:13
+msgid "New Category Sidebar"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:20
+msgid "Category"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:28
+#: Template/Certificates/view.ctp:36
+#: Template/Codes/view.ctp:48
+#: Template/CodesClasses/view.ctp:48
+#: Template/ConfigsTestes/view.ctp:30
+#: Template/CoursesDownloads/view.ctp:52
+#: Template/Cpfs/view.ctp:34
+#: Template/Galerys/view.ctp:30;46
+#: Template/ImageProfiles/view.ctp:33
+#: Template/IndexSidebars/view.ctp:45
+#: Template/Landpages/view.ctp:34
+#: Template/MercadoPago/view.ctp:38
+#: Template/Prompts/view.ctp:44
+#: Template/PromptsImages/view.ctp:30
+#: Template/RequestsCourses/view.ctp:44
+#: Template/RequestsProducts/view.ctp:40
+#: Template/StoresCards/view.ctp:50
+#: Template/StoresCarts/view.ctp:40
+#: Template/StoresColors/view.ctp:38
+#: Template/StoresConfigs/view.ctp:34
+#: Template/StoresContacts/view.ctp:34
+#: Template/StoresImagesProducts/view.ctp:30
+#: Template/StoresItemsDemands/view.ctp:40
+#: Template/StoresLogos/view.ctp:28
+#: Template/StoresMenus/view.ctp:46
+#: Template/StoresPartners/view.ctp:35
+#: Template/StoresSliders/view.ctp:42
+#: Template/Tablesroots/view.ctp:36
+#: Template/Users/view.ctp:38
+#: Template/VideosVieweds/view.ctp:42
+msgid "Created"
+msgstr ""
+
+#: Template/CategorySidebars/view.ctp:32
+#: Template/Certificates/view.ctp:40
+#: Template/Codes/view.ctp:52
+#: Template/CodesClasses/view.ctp:52
+#: Template/ConfigsTestes/view.ctp:34
+#: Template/CoursesDownloads/view.ctp:56
+#: Template/Cpfs/view.ctp:38
+#: Template/Galerys/view.ctp:34;47
+#: Template/ImageProfiles/view.ctp:37
+#: Template/IndexSidebars/view.ctp:49
+#: Template/Landpages/view.ctp:38
+#: Template/MercadoPago/view.ctp:42
+#: Template/Prompts/view.ctp:48
+#: Template/PromptsImages/view.ctp:34
+#: Template/RequestsCourses/view.ctp:48
+#: Template/RequestsProducts/view.ctp:44
+#: Template/StoresCards/view.ctp:54
+#: Template/StoresCarts/view.ctp:44
+#: Template/StoresColors/view.ctp:42
+#: Template/StoresConfigs/view.ctp:38
+#: Template/StoresContacts/view.ctp:38
+#: Template/StoresImagesProducts/view.ctp:34
+#: Template/StoresItemsDemands/view.ctp:44
+#: Template/StoresLogos/view.ctp:32
+#: Template/StoresMenus/view.ctp:50
+#: Template/StoresPartners/view.ctp:39
+#: Template/StoresSliders/view.ctp:46
+#: Template/Tablesroots/view.ctp:40
+#: Template/Users/view.ctp:42
+#: Template/VideosVieweds/view.ctp:46
+msgid "Modified"
+msgstr ""
+
+#: Template/Certificates/add.ctp:10
+#: Template/Certificates/edit.ctp:16
+#: Template/Certificates/view.ctp:12
+msgid "List Certificates"
+msgstr ""
+
+#: Template/Certificates/add.ctp:11
+#: Template/Certificates/edit.ctp:17
+#: Template/Certificates/view.ctp:14
+#: Template/CodesClasses/add.ctp:11
+#: Template/CodesClasses/edit.ctp:17
+#: Template/CodesClasses/index.ctp:11
+#: Template/CodesClasses/view.ctp:14
+#: Template/CoursesDownloads/edit.ctp:17
+#: Template/CoursesDownloads/view.ctp:14
+#: Template/RequestsCourses/add.ctp:11
+#: Template/RequestsCourses/edit.ctp:17
+#: Template/RequestsCourses/view.ctp:14
+#: Template/StoresMenus/view.ctp:14
+#: Template/VideosVieweds/add.ctp:13
+#: Template/VideosVieweds/edit.ctp:19
+#: Template/VideosVieweds/index.ctp:13
+#: Template/VideosVieweds/view.ctp:16
+msgid "List Stores Courses"
+msgstr ""
+
+#: Template/Certificates/add.ctp:12
+#: Template/Certificates/edit.ctp:18
+#: Template/Certificates/view.ctp:15
+#: Template/CodesClasses/add.ctp:12
+#: Template/CodesClasses/edit.ctp:18
+#: Template/CodesClasses/index.ctp:12
+#: Template/CodesClasses/view.ctp:15
+#: Template/CoursesDownloads/edit.ctp:18
+#: Template/CoursesDownloads/view.ctp:15
+#: Template/RequestsCourses/add.ctp:12
+#: Template/RequestsCourses/edit.ctp:18
+#: Template/RequestsCourses/view.ctp:15
+#: Template/StoresMenus/view.ctp:15
+#: Template/VideosVieweds/add.ctp:14
+#: Template/VideosVieweds/edit.ctp:20
+#: Template/VideosVieweds/index.ctp:14
+#: Template/VideosVieweds/view.ctp:17
+msgid "New Stores Course"
+msgstr ""
+
+#: Template/Certificates/add.ctp:13
+#: Template/Certificates/edit.ctp:19
+#: Template/Certificates/view.ctp:16
+#: Template/Codes/add.ctp:11
+#: Template/Codes/edit.ctp:17
+#: Template/Codes/view.ctp:14
+#: Template/CodesClasses/add.ctp:15
+#: Template/CodesClasses/edit.ctp:21
+#: Template/CodesClasses/index.ctp:15
+#: Template/CodesClasses/view.ctp:18
+#: Template/Configs/add.ctp:11
+#: Template/Configs/index.ctp:11
+#: Template/ConfigsTestes/add.ctp:11
+#: Template/ConfigsTestes/edit.ctp:17
+#: Template/ConfigsTestes/index.ctp:11
+#: Template/ConfigsTestes/view.ctp:14
+#: Template/CoursesDownloads/edit.ctp:21
+#: Template/CoursesDownloads/view.ctp:18
+#: Template/Cpfs/add.ctp:11
+#: Template/Cpfs/edit.ctp:17
+#: Template/Cpfs/index.ctp:11
+#: Template/Cpfs/view.ctp:14
+#: Template/ImageProfiles/add.ctp:7
+#: Template/ImageProfiles/edit.ctp:19
+#: Template/Landpages/edit.ctp:17
+#: Template/Landpages/view.ctp:14
+#: Template/MercadoPago/add.ctp:11
+#: Template/MercadoPago/edit.ctp:17
+#: Template/MercadoPago/index.ctp:11
+#: Template/MercadoPago/view.ctp:14
+#: Template/Prompts/add.ctp:11
+#: Template/Prompts/edit.ctp:17
+#: Template/Prompts/view.ctp:14
+#: Template/RequestsCourses/add.ctp:13
+#: Template/RequestsCourses/edit.ctp:19
+#: Template/RequestsCourses/view.ctp:16
+#: Template/RequestsProducts/add.ctp:13
+#: Template/RequestsProducts/edit.ctp:19
+#: Template/RequestsProducts/index.ctp:13
+#: Template/RequestsProducts/view.ctp:16
+#: Template/StoresAbouts/add.ctp:5
+#: Template/StoresAddress/add.ctp:13
+#: Template/StoresAddress/edit.ctp:19
+#: Template/StoresCards/add.ctp:11
+#: Template/StoresCards/edit.ctp:17
+#: Template/StoresCards/index.ctp:11
+#: Template/StoresCards/view.ctp:14
+#: Template/StoresCarts/add.ctp:7
+#: Template/StoresCarts/edit.ctp:19
+#: Template/StoresCarts/index.ctp:13
+#: Template/StoresCarts/view.ctp:16
+#: Template/StoresComments/add.ctp:13
+#: Template/StoresComments/edit.ctp:19
+#: Template/StoresConfigs/add.ctp:11
+#: Template/StoresConfigs/edit.ctp:17
+#: Template/StoresConfigs/index.ctp:11
+#: Template/StoresConfigs/view.ctp:14
+#: Template/StoresContacts/add.ctp:11
+#: Template/StoresContacts/view.ctp:14
+#: Template/StoresDemands/add.ctp:11
+#: Template/StoresHours/add.ctp:11
+#: Template/StoresMenus/view.ctp:16
+#: Template/StoresPartners/view.ctp:15
+#: Template/StoresSliders/view.ctp:14
+#: Template/Users/add.ctp:10
+#: Template/VideosVieweds/add.ctp:11
+#: Template/VideosVieweds/edit.ctp:17
+#: Template/VideosVieweds/index.ctp:11
+#: Template/VideosVieweds/view.ctp:14
+msgid "List Users"
+msgstr ""
+
+#: Template/Certificates/add.ctp:14
+#: Template/Certificates/edit.ctp:20
+#: Template/Certificates/view.ctp:17
+#: Template/Codes/add.ctp:12
+#: Template/Codes/edit.ctp:18
+#: Template/Codes/view.ctp:15
+#: Template/CodesClasses/add.ctp:16
+#: Template/CodesClasses/edit.ctp:22
+#: Template/CodesClasses/index.ctp:16
+#: Template/CodesClasses/view.ctp:19
+#: Template/Configs/add.ctp:12
+#: Template/Configs/index.ctp:12
+#: Template/ConfigsTestes/add.ctp:12
+#: Template/ConfigsTestes/edit.ctp:18
+#: Template/ConfigsTestes/index.ctp:12
+#: Template/ConfigsTestes/view.ctp:15
+#: Template/CoursesDownloads/edit.ctp:22
+#: Template/CoursesDownloads/view.ctp:19
+#: Template/Cpfs/add.ctp:12
+#: Template/Cpfs/edit.ctp:18
+#: Template/Cpfs/index.ctp:12
+#: Template/Cpfs/view.ctp:15
+#: Template/ImageProfiles/add.ctp:8
+#: Template/ImageProfiles/edit.ctp:20
+#: Template/Landpages/edit.ctp:18
+#: Template/Landpages/view.ctp:15
+#: Template/MercadoPago/add.ctp:12
+#: Template/MercadoPago/edit.ctp:18
+#: Template/MercadoPago/index.ctp:12
+#: Template/MercadoPago/view.ctp:15
+#: Template/Prompts/add.ctp:12
+#: Template/Prompts/edit.ctp:18
+#: Template/Prompts/view.ctp:15
+#: Template/RequestsCourses/add.ctp:14
+#: Template/RequestsCourses/edit.ctp:20
+#: Template/RequestsCourses/view.ctp:17
+#: Template/RequestsProducts/add.ctp:14
+#: Template/RequestsProducts/edit.ctp:20
+#: Template/RequestsProducts/index.ctp:14
+#: Template/RequestsProducts/view.ctp:17
+#: Template/StoresAbouts/add.ctp:6
+#: Template/StoresAddress/add.ctp:14
+#: Template/StoresAddress/edit.ctp:20
+#: Template/StoresCards/add.ctp:12
+#: Template/StoresCards/edit.ctp:18
+#: Template/StoresCards/index.ctp:12
+#: Template/StoresCards/view.ctp:15
+#: Template/StoresCarts/add.ctp:8
+#: Template/StoresCarts/edit.ctp:20
+#: Template/StoresCarts/index.ctp:14
+#: Template/StoresCarts/view.ctp:17
+#: Template/StoresComments/add.ctp:14
+#: Template/StoresComments/edit.ctp:20
+#: Template/StoresConfigs/add.ctp:12
+#: Template/StoresConfigs/edit.ctp:18
+#: Template/StoresConfigs/index.ctp:12
+#: Template/StoresConfigs/view.ctp:15
+#: Template/StoresContacts/add.ctp:12
+#: Template/StoresContacts/view.ctp:15
+#: Template/StoresDemands/add.ctp:12
+#: Template/StoresHours/add.ctp:12
+#: Template/StoresMenus/view.ctp:17
+#: Template/StoresPartners/view.ctp:16
+#: Template/StoresSliders/view.ctp:15
+#: Template/VideosVieweds/add.ctp:12
+#: Template/VideosVieweds/edit.ctp:18
+#: Template/VideosVieweds/index.ctp:12
+#: Template/VideosVieweds/view.ctp:15
+msgid "New User"
+msgstr ""
+
+#: Template/Certificates/add.ctp:20
+msgid "Add Certificate"
+msgstr ""
+
+#: Template/Certificates/edit.ctp:26
+#: Template/Certificates/view.ctp:10
+msgid "Edit Certificate"
+msgstr ""
+
+#: Template/Certificates/view.ctp:11
+msgid "Delete Certificate"
+msgstr ""
+
+#: Template/Certificates/view.ctp:13
+msgid "New Certificate"
+msgstr ""
+
+#: Template/Certificates/view.ctp:24
+#: Template/CodesClasses/view.ctp:28
+#: Template/CoursesDownloads/view.ctp:32
+#: Template/RequestsCourses/view.ctp:24
+#: Template/StoresMenus/view.ctp:30
+#: Template/VideosVieweds/view.ctp:30
+msgid "Stores Course"
+msgstr ""
+
+#: Template/Certificates/view.ctp:28
+#: Template/Codes/view.ctp:36
+#: Template/CodesClasses/view.ctp:36
+#: Template/ConfigsTestes/view.ctp:22
+#: Template/CoursesDownloads/view.ctp:40
+#: Template/Cpfs/view.ctp:26
+#: Template/ImageProfiles/view.ctp:25
+#: Template/IndexSidebars/view.ctp:37
+#: Template/Landpages/view.ctp:26
+#: Template/MercadoPago/view.ctp:30
+#: Template/Prompts/view.ctp:32
+#: Template/RequestsCourses/view.ctp:28
+#: Template/RequestsProducts/view.ctp:28
+#: Template/StoresCards/view.ctp:42
+#: Template/StoresCarts/view.ctp:32
+#: Template/StoresConfigs/view.ctp:26
+#: Template/StoresContacts/view.ctp:26
+#: Template/StoresDemands/view.ctp:6
+#: Template/StoresMenus/view.ctp:34
+#: Template/StoresPartners/view.ctp:27
+#: Template/StoresSliders/view.ctp:34
+#: Template/VideosVieweds/view.ctp:26
+msgid "User"
+msgstr ""
+
+#: Template/Citys/add.ctp:10
+#: Template/Citys/edit.ctp:16
+msgid "List Citys"
+msgstr ""
+
+#: Template/Citys/add.ctp:11
+#: Template/Citys/edit.ctp:17
+#: Template/Citys/index.ctp:11
+#: Template/States/add.ctp:10
+#: Template/States/edit.ctp:16
+msgid "List States"
+msgstr ""
+
+#: Template/Citys/add.ctp:12
+#: Template/Citys/edit.ctp:18
+#: Template/Citys/index.ctp:12
+#: Template/States/index.ctp:10
+msgid "New State"
+msgstr ""
+
+#: Template/Citys/add.ctp:18
+msgid "Add City"
+msgstr ""
+
+#: Template/Citys/edit.ctp:24
+msgid "Edit City"
+msgstr ""
+
+#: Template/Citys/index.ctp:10
+msgid "New City"
+msgstr ""
+
+#: Template/Citys/index.ctp:16
+msgid "Citys"
+msgstr ""
+
+#: Template/Citys/view.ctp:17
+#: Template/Element/store_load_users.ctp:12;34;55;77;98;120
+#: Template/States/view.ctp:17
+#: Template/StoresBudgets/view.ctp:6
+#: Template/StoresMessages/view.ctp:10
+#: Template/Users/editcommon.ctp:26
+msgid "Nome"
+msgstr ""
+
+#: Template/Citys/view.ctp:21
+#: Template/Companys/view.ctp:67
+#: Template/States/view.ctp:21
+msgid "Estado"
+msgstr ""
+
+#: Template/Codes/add.ctp:10
+#: Template/Codes/edit.ctp:16
+#: Template/Codes/view.ctp:12
+msgid "List Codes"
+msgstr ""
+
+#: Template/Codes/add.ctp:13
+#: Template/Codes/edit.ctp:19
+#: Template/Codes/view.ctp:16
+#: Template/CodesClasses/add.ctp:13
+#: Template/CodesClasses/edit.ctp:19
+#: Template/CodesClasses/index.ctp:13
+#: Template/CodesClasses/view.ctp:16
+#: Template/CoursesDownloads/edit.ctp:23
+#: Template/CoursesDownloads/view.ctp:20
+#: Template/StoresMenus/view.ctp:18
+msgid "List Companys"
+msgstr ""
+
+#: Template/Codes/add.ctp:14
+#: Template/Codes/edit.ctp:20
+#: Template/Codes/view.ctp:17
+#: Template/CodesClasses/add.ctp:14
+#: Template/CodesClasses/edit.ctp:20
+#: Template/CodesClasses/index.ctp:14
+#: Template/CodesClasses/view.ctp:17
+#: Template/CoursesDownloads/edit.ctp:24
+#: Template/CoursesDownloads/view.ctp:21
+#: Template/StoresMenus/view.ctp:19
+msgid "New Company"
+msgstr ""
+
+#: Template/Codes/add.ctp:20
+msgid "Add Code"
+msgstr ""
+
+#: Template/Codes/edit.ctp:26
+#: Template/Codes/view.ctp:10
+msgid "Edit Code"
+msgstr ""
+
+#: Template/Codes/index.ctp:12
+#: Template/Companys/add.ctp:127
+#: Template/CoursesDownloads/add.ctp:72
+#: Template/CoursesDownloads/add_fast.ctp:64
+#: Template/CoursesDownloads/index.ctp:5
+#: Template/DigitalsCategories/add.ctp:47
+#: Template/Galerys/add.ctp:20
+#: Template/IndexSidebars/index.ctp:7
+#: Template/Landpages/add.ctp:26
+#: Template/Landpages/index_root.ctp:7
+#: Template/LowsProducts/index.ctp:5
+#: Template/Pages/edit_promotion_banner.ctp:29
+#: Template/Roles/add.ctp:16
+#: Template/Slides/add.ctp:53
+#: Template/StoresCategories/add.ctp:47
+#: Template/StoresCourses/add.ctp:202
+#: Template/StoresFinalcategories/add.ctp:52
+#: Template/StoresFinalcategories/index.ctp:11
+#: Template/StoresFooters/add.ctp:21
+#: Template/StoresLogos/add.ctp:17
+#: Template/StoresMenus/add.ctp:52
+#: Template/StoresPartners/add.ctp:39
+#: Template/StoresPartners/index.ctp:12
+#: Template/StoresProducts/add.ctp:322
+#: Template/StoresProducts/index.ctp:6
+#: Template/StoresProducts/relationship_products.ctp:5
+#: Template/StoresSliders/add.ctp:34
+#: Template/StoresStripeConfigs/add.ctp:17
+#: Template/StoresSubcategories/add.ctp:53
+#: Template/StoresSubcategories/index.ctp:11
+#: Template/StoresSuperpass/add.ctp:16
+#: Template/StoresTerms/add.ctp:36
+#: Template/StoresVideos/add.ctp:120
+#: Template/StoresVideos/index.ctp:5;42
+#: Template/Tablesroots/index.ctp:7
+msgid "Adicionar"
+msgstr ""
+
+#: Template/Codes/index.ctp:42
+#: Template/Companys/index.ctp:56
+#: Template/CoursesDownloads/index.ctp:37
+#: Template/DigitalsCategories/index.ctp:33
+#: Template/ImageProfiles/index.ctp:21
+#: Template/IndexSidebars/index.ctp:30
+#: Template/PromptsCategories/index.ctp:30
+#: Template/Slides/index.ctp:36
+#: Template/StoresAddress/index.ctp:35
+#: Template/StoresBudgets/index.ctp:29
+#: Template/StoresCategories/index.ctp:33
+#: Template/StoresComments/index.ctp:31
+#: Template/StoresFinalcategories/index.ctp:35
+#: Template/StoresFooters/index.ctp:17
+#: Template/StoresMessages/index.ctp:23
+#: Template/StoresProducts/index.ctp:63
+#: Template/StoresProducts/relationship_products.ctp:77
+#: Template/StoresSubcategories/index.ctp:36
+#: Template/StoresTerms/index.ctp:15;25
+#: Template/StoresVideos/index.ctp:14;28;73
+#: Template/Users/index.ctp:29
+msgid "Ver"
+msgstr ""
+
+#: Template/Codes/index.ctp:44
+#: Template/IndexSidebars/index.ctp:36
+#: Template/Roles/edit.ctp:5
+#: Template/Slides/index.ctp:46
+#: Template/StoresFinalcategories/index.ctp:37
+#: Template/StoresMenus/index.ctp:36
+#: Template/StoresTerms/index.ctp:17;31
+#: Template/StoresTerms/view.ctp:15
+#: Template/Users/index.ctp:35
+msgid "Deletar"
+msgstr ""
+
+#: Template/Codes/view.ctp:11
+msgid "Delete Code"
+msgstr ""
+
+#: Template/Codes/view.ctp:13
+msgid "New Code"
+msgstr ""
+
+#: Template/Codes/view.ctp:24
+#: Template/Galerys/view.ctp:22
+#: Template/StoresPages/view.ctp:20
+#: Template/StoresSliders/view.ctp:26
+#: Template/Tablesroots/view.ctp:20
+msgid "Title"
+msgstr ""
+
+#: Template/Codes/view.ctp:28
+#: Template/StoresCourses/course_view.ctp:65
+#: Template/StoresCourses/index.ctp:17;76
+#: Template/StoresCourses/view.ctp:34
+msgid "Autor"
+msgstr ""
+
+#: Template/Codes/view.ctp:32
+#: Template/Prompts/view.ctp:28
+msgid "Price"
+msgstr ""
+
+#: Template/Codes/view.ctp:40
+#: Template/CodesClasses/view.ctp:32
+#: Template/CoursesDownloads/view.ctp:44
+#: Template/StoresMenus/view.ctp:38
+msgid "Company"
+msgstr ""
+
+#: Template/Codes/view.ctp:57
+#: Template/CoursesDownloads/view.ctp:61
+#: Template/Landpages/view.ctp:22
+#: Template/Prompts/view.ctp:57
+msgid "Description"
+msgstr ""
+
+#: Template/Codes/view.ctp:61
+#: Template/PromptsImages/view.ctp:39
+#: Template/StoresImagesProducts/view.ctp:39
+#: Template/StoresPartners/add.ctp:28
+#: Template/StoresPartners/edit.ctp:28
+#: Template/StoresPartners/view.ctp:44
+msgid "Photo"
+msgstr ""
+
+#: Template/CodesClasses/add.ctp:10
+#: Template/CodesClasses/edit.ctp:16
+#: Template/CodesClasses/view.ctp:12
+msgid "List Codes Classes"
+msgstr ""
+
+#: Template/CodesClasses/add.ctp:17
+#: Template/CodesClasses/edit.ctp:23
+#: Template/CodesClasses/index.ctp:17
+#: Template/CodesClasses/view.ctp:20
+#: Template/StoresMenus/view.ctp:12
+msgid "List Stores Menus"
+msgstr ""
+
+#: Template/CodesClasses/add.ctp:18
+#: Template/CodesClasses/edit.ctp:24
+#: Template/CodesClasses/index.ctp:18
+#: Template/CodesClasses/view.ctp:21
+#: Template/StoresMenus/view.ctp:13
+msgid "New Stores Menu"
+msgstr ""
+
+#: Template/CodesClasses/add.ctp:24
+msgid "Add Codes Class"
+msgstr ""
+
+#: Template/CodesClasses/edit.ctp:30
+#: Template/CodesClasses/view.ctp:10
+msgid "Edit Codes Class"
+msgstr ""
+
+#: Template/CodesClasses/index.ctp:10
+#: Template/CodesClasses/view.ctp:13
+msgid "New Codes Class"
+msgstr ""
+
+#: Template/CodesClasses/index.ctp:22
+msgid "Codes Classes"
+msgstr ""
+
+#: Template/CodesClasses/view.ctp:11
+msgid "Delete Codes Class"
+msgstr ""
+
+#: Template/CodesClasses/view.ctp:40
+msgid "Stores Menu"
+msgstr ""
+
+#: Template/CodesClasses/view.ctp:57
+#: Template/StoresDemands/view.ctp:14
+msgid "Code"
+msgstr ""
+
+#: Template/Companys/index.ctp:6
+msgid "Adicionar Nova Empresa"
+msgstr ""
+
+#: Template/Companys/index.ctp:37
+msgid "Colocar em Produção"
+msgstr ""
+
+#: Template/Companys/index.ctp:66
+#: Template/Companys/view.ctp:21
+msgid "Editar Logotipo"
+msgstr ""
+
+#: Template/Companys/index.ctp:71
+#: Template/CoursesDownloads/index.ctp:39
+#: Template/StoresPartners/index.ctp:40
+msgid "Apagar"
+msgstr ""
+
+#: Template/Companys/view.ctp:14
+msgid "Editar Empresa"
+msgstr ""
+
+#: Template/Companys/view.ctp:35
+#: Template/Slides/view.ctp:29
+msgid "Empresa"
+msgstr ""
+
+#: Template/Companys/view.ctp:39
+#: Template/CoursesDownloads/index.ctp:19;53
+#: Template/Disclosurepages/view.ctp:24
+#: Template/PromptsCategories/view.ctp:21
+#: Template/Slides/index.ctp:23;59
+#: Template/Slides/view.ctp:25
+#: Template/StoresAddress/view.ctp:34
+#: Template/StoresAddress/view_by_demand.ctp:35
+#: Template/StoresComments/view.ctp:10
+#: Template/StoresDemands/index.ctp:7;77
+#: Template/StoresMenus/index.ctp:18;49
+msgid "Usuário"
+msgstr ""
+
+#: Template/Companys/view.ctp:43
+#: Template/StoresMessages/view.ctp:14
+#: Template/Users/view.ctp:18
+msgid "Email"
+msgstr ""
+
+#: Template/Companys/view.ctp:47
+#: Template/Element/store_load_users.ctp:16;38;59;81;102;124
+#: Template/Users/editcommon.ctp:35
+#: Template/Users/profile.ctp:67
+msgid "Telefone"
+msgstr ""
+
+#: Template/Companys/view.ctp:51
+msgid "Número Fiscal"
+msgstr ""
+
+#: Template/Companys/view.ctp:55
+#: Template/StoresAddress/view.ctp:6
+#: Template/StoresAddress/view_by_demand.ctp:7
+msgid "Endereço"
+msgstr ""
+
+#: Template/Companys/view.ctp:59
+#: Template/StoresAddress/view.ctp:14
+#: Template/StoresAddress/view_by_demand.ctp:15
+msgid "Cidade"
+msgstr ""
+
+#: Template/Companys/view.ctp:63
+#: Template/StoresAddress/view.ctp:26
+#: Template/StoresAddress/view_by_demand.ctp:27
+msgid "CEP"
+msgstr ""
+
+#: Template/Companys/view.ctp:71
+#: Template/StoresProducts/view.ctp:87
+msgid "Fotos Do Produto"
+msgstr ""
+
+#: Template/Companys/view.ctp:77
+#: Template/CoursesDownloads/index.ctp:17;51
+#: Template/DigitalsCategories/view.ctp:30
+#: Template/Disclosurepages/view.ctp:32
+#: Template/LowsProducts/view.ctp:30
+#: Template/PromptsCategories/view.ctp:29
+#: Template/Roles/view.ctp:18
+#: Template/Slides/view.ctp:33
+#: Template/StoresAbouts/view.ctp:15
+#: Template/StoresBudgets/view.ctp:22
+#: Template/StoresCategories/view.ctp:26
+#: Template/StoresComments/view.ctp:22
+#: Template/StoresCourses/course_view.ctp:79
+#: Template/StoresDemands/index.ctp:10;80
+#: Template/StoresFinalcategories/view.ctp:25
+#: Template/StoresFooters/view.ctp:14
+#: Template/StoresHours/view.ctp:18
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:11;35
+#: Template/StoresItemsDemands/index.ctp:10;32
+#: Template/StoresMessages/view.ctp:18
+#: Template/StoresPartners/index.ctp:22;56
+#: Template/StoresStripeConfigs/index.ctp:21;59
+#: Template/StoresStripeConfigs/view.ctp:20
+#: Template/StoresSubcategories/view.ctp:25
+#: Template/StoresSuperpass/index.ctp:15;31
+#: Template/StoresTerms/view.ctp:32
+#: Template/StoresTitles/index.ctp:8;30
+#: Template/StoresVideos/view.ctp:26
+msgid "Criado Em"
+msgstr ""
+
+#: Template/Companys/view.ctp:81
+#: Template/CoursesDownloads/index.ctp:18;52
+#: Template/DigitalsCategories/view.ctp:34
+#: Template/Slides/view.ctp:37
+#: Template/StoresAddress/view.ctp:46
+#: Template/StoresAddress/view_by_demand.ctp:47
+#: Template/StoresBudgets/view.ctp:26
+#: Template/StoresCategories/view.ctp:30
+#: Template/StoresComments/view.ctp:26
+#: Template/StoresCourses/course_view.ctp:83
+#: Template/StoresFinalcategories/view.ctp:29
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:12;36
+#: Template/StoresItemsDemands/index.ctp:11;33
+#: Template/StoresLogos/index.ctp:9;37
+#: Template/StoresStripeConfigs/index.ctp:22;60
+#: Template/StoresStripeConfigs/view.ctp:24
+#: Template/StoresTerms/view.ctp:36
+#: Template/StoresTitles/index.ctp:9;31
+msgid "Última Modificação"
+msgstr ""
+
+#: Template/Configs/add.ctp:10
+msgid "List Configs"
+msgstr ""
+
+#: Template/Configs/add.ctp:18
+msgid "Add Config"
+msgstr ""
+
+#: Template/Configs/edit.ctp:11
+msgid "Editar Configurações"
+msgstr ""
+
+#: Template/Configs/edit.ctp:24
+#: Template/Element/store_media_update.ctp:48
+msgid "Banner Promocional"
+msgstr ""
+
+#: Template/Configs/edit.ctp:36
+msgid "Produtos Físicos"
+msgstr ""
+
+#: Template/Configs/edit.ctp:46
+msgid "Produtos Digitais"
+msgstr ""
+
+#: Template/Configs/index.ctp:10
+msgid "New Config"
+msgstr ""
+
+#: Template/Configs/index.ctp:16
+msgid "Configs"
+msgstr ""
+
+#: Template/Configs/view.ctp:6
+msgid "Editar Todas as Configurações"
+msgstr ""
+
+#: Template/Configs/view.ctp:11
+msgid "Status Banner Promocional"
+msgstr ""
+
+#: Template/Configs/view.ctp:13
+#: Template/StoresContacts/index.ctp:15;53
+#: Template/StoresCourses/edit.ctp:160
+#: Template/StoresProducts/view.ctp:113
+#: Template/StoresVideos/edit.ctp:68
+msgid "Ativo"
+msgstr ""
+
+#: Template/Configs/view.ctp:13
+msgid "Inativo"
+msgstr ""
+
+#: Template/Configs/view.ctp:26
+msgid "Exibição de Produtos"
+msgstr ""
+
+#: Template/Configs/view.ctp:31
+msgid "Exibindo apenas produtos físicos"
+msgstr ""
+
+#: Template/Configs/view.ctp:34
+msgid "Exibindo apenas produtos digitais."
+msgstr ""
+
+#: Template/Configs/view.ctp:37
+msgid "Exibindo produtos físicos e digitais."
+msgstr ""
+
+#: Template/ConfigsTestes/add.ctp:10
+#: Template/ConfigsTestes/edit.ctp:16
+#: Template/ConfigsTestes/view.ctp:12
+msgid "List Configs Testes"
+msgstr ""
+
+#: Template/ConfigsTestes/add.ctp:18
+msgid "Add Configs Testis"
+msgstr ""
+
+#: Template/ConfigsTestes/edit.ctp:24
+#: Template/ConfigsTestes/view.ctp:10
+msgid "Edit Configs Testis"
+msgstr ""
+
+#: Template/ConfigsTestes/index.ctp:10
+#: Template/ConfigsTestes/view.ctp:13
+msgid "New Configs Testis"
+msgstr ""
+
+#: Template/ConfigsTestes/index.ctp:16
+msgid "Configs Testes"
+msgstr ""
+
+#: Template/ConfigsTestes/view.ctp:11
+msgid "Delete Configs Testis"
+msgstr ""
+
+#: Template/ConfigsTestes/view.ctp:39
+#: Template/IndexSidebars/view.ctp:25
+msgid "Url"
+msgstr ""
+
+#: Template/CoursesDownloads/add.ctp:4
+#: Template/CoursesDownloads/add_fast.ctp:4
+msgid "Novo Item Para Download"
+msgstr ""
+
+#: Template/CoursesDownloads/add.ctp:11
+#: Template/CoursesDownloads/add_fast.ctp:11
+msgid "Link*"
+msgstr ""
+
+#: Template/CoursesDownloads/add.ctp:22
+#: Template/Slides/add.ctp:33
+#: Template/Slides/edit.ctp:33
+#: Template/StoresCourses/edit.ctp:26
+#: Template/StoresMenus/add.ctp:32
+#: Template/StoresMenus/edit.ctp:32
+#: Template/StoresVideos/edit.ctp:81
+msgid "Curso*"
+msgstr ""
+
+#: Template/CoursesDownloads/add.ctp:34
+msgid "Aula*"
+msgstr ""
+
+#: Template/CoursesDownloads/add.ctp:46
+#: Template/CoursesDownloads/add_fast.ctp:22
+#: Template/StoresCourses/edit.ctp:84
+#: Template/StoresVideos/edit.ctp:41
+msgid "Descrição*"
+msgstr ""
+
+#: Template/CoursesDownloads/edit.ctp:16
+#: Template/CoursesDownloads/view.ctp:12
+msgid "List Courses Downloads"
+msgstr ""
+
+#: Template/CoursesDownloads/edit.ctp:19
+#: Template/CoursesDownloads/view.ctp:16
+#: Template/VideosVieweds/add.ctp:15
+#: Template/VideosVieweds/edit.ctp:21
+#: Template/VideosVieweds/index.ctp:15
+#: Template/VideosVieweds/view.ctp:18
+msgid "List Stores Videos"
+msgstr ""
+
+#: Template/CoursesDownloads/edit.ctp:20
+#: Template/CoursesDownloads/view.ctp:17
+#: Template/VideosVieweds/add.ctp:16
+#: Template/VideosVieweds/edit.ctp:22
+#: Template/VideosVieweds/index.ctp:16
+#: Template/VideosVieweds/view.ctp:19
+msgid "New Stores Video"
+msgstr ""
+
+#: Template/CoursesDownloads/edit.ctp:30
+#: Template/CoursesDownloads/view.ctp:10
+msgid "Edit Courses Download"
+msgstr ""
+
+#: Template/CoursesDownloads/index.ctp:13;47
+#: Template/CoursesDownloads/view.ctp:28
+#: Template/Tablesroots/view.ctp:28
+msgid "Link"
+msgstr ""
+
+#: Template/CoursesDownloads/index.ctp:14;48
+#: Template/Homes/course_view.ctp:16
+#: Template/StoresProducts/view.ctp:75
+#: Template/StoresVideos/view.ctp:40
+msgid "Descrição"
+msgstr ""
+
+#: Template/CoursesDownloads/index.ctp:16;50
+#: Template/StoresVideos/view.ctp:10
+msgid "Video"
+msgstr ""
+
+#: Template/CoursesDownloads/index.ctp:20;54
+msgid "Compania"
+msgstr ""
+
+#: Template/CoursesDownloads/view.ctp:11
+msgid "Delete Courses Download"
+msgstr ""
+
+#: Template/CoursesDownloads/view.ctp:13
+msgid "New Courses Download"
+msgstr ""
+
+#: Template/CoursesDownloads/view.ctp:36
+#: Template/VideosVieweds/view.ctp:34
+msgid "Stores Video"
+msgstr ""
+
+#: Template/Cpfs/add.ctp:10
+#: Template/Cpfs/edit.ctp:16
+#: Template/Cpfs/view.ctp:12
+msgid "List Cpfs"
+msgstr ""
+
+#: Template/Cpfs/add.ctp:18
+msgid "Add Cpf"
+msgstr ""
+
+#: Template/Cpfs/edit.ctp:24
+#: Template/Cpfs/view.ctp:10
+msgid "Edit Cpf"
+msgstr ""
+
+#: Template/Cpfs/index.ctp:10
+#: Template/Cpfs/view.ctp:13
+msgid "New Cpf"
+msgstr ""
+
+#: Template/Cpfs/index.ctp:16
+msgid "Cpfs"
+msgstr ""
+
+#: Template/Cpfs/view.ctp:11
+msgid "Delete Cpf"
+msgstr ""
+
+#: Template/Cpfs/view.ctp:22
+msgid "Cpf"
+msgstr ""
+
+#: Template/DigitalsCategories/index.ctp:6
+#: Template/StoresCategories/index.ctp:6
+msgid "Adicionar Nova Categoria"
+msgstr ""
+
+#: Template/DigitalsCategories/index.ctp:36
+#: Template/StoresCategories/index.ctp:36
+msgid "Vizualizar Produtos Relacionados"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:5
+#: Template/StoresAbouts/edit.ctp:4
+msgid "Editar Categoria"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:13
+#: Template/Element/store_demands.ctp:85
+#: Template/Element/store_fisic_product.ctp:70
+#: Template/Element/store_products(PARA_REMOVER).ctp:73
+#: Template/Homes/search.ctp:73
+#: Template/PromptsCategories/view.ctp:8
+#: Template/StoresCategories/view.ctp:9
+msgid "Categorias"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:16
+#: Template/PromptsCategories/index.ctp:6
+#: Template/PromptsCategories/view.ctp:11
+#: Template/StoresCategories/view.ctp:12
+msgid "Nova Categoria"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:26
+#: Template/PromptsCategories/view.ctp:17
+#: Template/StoresCategories/view.ctp:22
+#: Template/StoresProducts/view.ctp:83
+#: Template/StoresSubcategories/view.ctp:21
+msgid "Categoria"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:38
+#: Template/StoresCategories/view.ctp:34
+msgid "Ativo no menu do site"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:39
+#: Template/StoresCategories/view.ctp:35
+#: Template/StoresProducts/view.ctp:114;118
+msgid "Sim"
+msgstr ""
+
+#: Template/DigitalsCategories/view.ctp:39
+#: Template/StoresCategories/view.ctp:35
+#: Template/StoresProducts/view.ctp:114;118
+msgid "Não"
+msgstr ""
+
+#: Template/Disclosurepages/edit.ctp:4
+msgid "Edit Disclosurepage"
+msgstr ""
+
+#: Template/Disclosurepages/index copy 2.ctp:43
+#: Template/Disclosurepages/index.ctp:47
+msgid "<i class=\"fa fa-eye\"></i> Detalhes"
+msgstr ""
+
+#: Template/Disclosurepages/index copy 2.ctp:48
+#: Template/Disclosurepages/index.ctp:52
+msgid "<i class=\"fa fa-eye\"></i> Visualizar Lading Page"
+msgstr ""
+
+#: Template/Disclosurepages/index copy.ctp:24
+#: Template/StoresCourses/index.ctp:7
+msgid "<i class=\"fa fa-plus\"></i> Adicionar"
+msgstr ""
+
+#: Template/Disclosurepages/index copy.ctp:57
+#: Template/StoresCourses/index.ctp:38
+msgid "<i class=\"fa fa-eye\"></i> Visualizar Curso"
+msgstr ""
+
+#: Template/Disclosurepages/index copy.ctp:64
+#: Template/StoresCourses/index.ctp:45
+#: Template/StoresCourses/view.ctp:52
+msgid "<i class=\"fa fa-edit\"></i> Editar Curso"
+msgstr ""
+
+#: Template/Disclosurepages/index copy.ctp:71
+#: Template/StoresCourses/index.ctp:52
+msgid "<i class=\"fa fa-edit\"></i> Editar Foto"
+msgstr ""
+
+#: Template/Disclosurepages/index copy.ctp:78
+#: Template/StoresCourses/index.ctp:59
+msgid "<i class=\"fa fa-plus\"></i> Adicionar Aula"
+msgstr ""
+
+#: Template/Disclosurepages/index.ctp:42
+msgid "<i class=\"fa fa-edit\"></i> Editar"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:12
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:8;32
+msgid "Produto Físico"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:16
+msgid "Afiliação Curso"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:20
+msgid "Afiliação Produto Físico"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:36
+#: Template/LowsProducts/view.ctp:34
+#: Template/PromptsCategories/view.ctp:33
+#: Template/Roles/view.ctp:22
+#: Template/StoresAbouts/view.ctp:19
+#: Template/StoresDemands/index.ctp:11;81
+#: Template/StoresFooters/view.ctp:18
+#: Template/StoresHours/view.ctp:22
+#: Template/StoresMessages/view.ctp:22
+msgid "Modificado Em"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:40
+#: Template/StoresCourses/edit.ctp:124
+msgid "Google Tag"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:44
+#: Template/StoresCourses/edit.ctp:138
+msgid "Facebook Pixel"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:48
+msgid "Publicidade 1 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:52
+msgid "Publicidade 1 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:56
+msgid "Publicidade 2 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:60
+msgid "Publicidade 2 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:64
+msgid "Publicidade 3 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:68
+msgid "Publicidade 3 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:72
+msgid "Publicidade 4 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:76
+msgid "Publicidade 4 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:80
+msgid "Quem Somos Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:84
+msgid "Testemunho 1 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:88
+msgid "Testemunho 1 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:92
+msgid "Testemunho 1 Imagem"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:96
+msgid "Testemunho 1 Facebook"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:100
+msgid "Testemunho 1 Instagram"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:104
+msgid "Testemunho 1 X"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:108
+msgid "Testemunho 2 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:112
+msgid "Testemunho 2 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:116
+msgid "Testemunho 2 Imagem"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:120
+msgid "Testemunho 2 Facebook"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:124
+msgid "Testemunho 2 Instagram"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:128
+msgid "Testemunho 2 X"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:132
+msgid "Testemunho 3 Título"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:136
+msgid "Testemunho 3 Texto"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:140
+msgid "Testemunho 3 Imagem"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:144
+msgid "Testemunho 3 Facebook"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:148
+msgid "Testemunho 3 Instagram"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:152
+msgid "Testemunho 3 X"
+msgstr ""
+
+#: Template/Disclosurepages/view.ctp:156
+msgid "Vídeo"
+msgstr ""
+
+#: Template/Element/index_nav.ctp:29
+msgid "Visualizar Site"
+msgstr ""
+
+#: Template/Element/index_nav.ctp:45
+msgid "Perfil"
+msgstr ""
+
+#: Template/Element/index_nav.ctp:51
+#: Template/Layout/default.ctp:43
+#: Template/Users/amc.ctp:51
+#: Template/Users/colibri.ctp:51
+#: Template/Users/mainmenu.ctp:55
+#: Template/Users/mainmenutubex.ctp:51
+msgid "Logout"
+msgstr ""
+
+#: Template/Element/index_statistics.ctp:7
+msgid "Pedidos"
+msgstr ""
+
+#: Template/Element/index_statistics.ctp:12;24;36;48
+msgid "Ver mais"
+msgstr ""
+
+#: Template/Element/index_statistics.ctp:19
+msgid "Empresas"
+msgstr ""
+
+#: Template/Element/index_statistics.ctp:31
+msgid "Usuários"
+msgstr ""
+
+#: Template/Element/index_statistics.ctp:43
+#: Template/Homes/site.ctp:13
+#: Template/LowsProducts/view.ctp:6
+msgid "Produtos"
+msgstr ""
+
+#: Template/Element/index_user_panel.ctp:56
+msgid "Register/Login"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:6;18
+msgid "Atenção!"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:7
+msgid "Você possui pedidos que precisam ser processados. Clique"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:7;19
+msgid "aqui"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:7
+msgid "para verificar!"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:19
+msgid "Você ainda não possui uma empresa ativa. Clique"
+msgstr ""
+
+#: Template/Element/store_alert.ctp:19
+msgid "para ativar uma!"
+msgstr ""
+
+#: Template/Element/store_cart_cart.ctp:22
+#: Template/Element/store_digital_cart.ctp:23
+msgid "Você realmente deseja remover esse item?"
+msgstr ""
+
+#: Template/Element/store_checkout_form.ctp:9
+msgid "Pagar"
+msgstr ""
+
+#: Template/Element/store_contact.ctp:7
+msgid "QUEM SOMOS"
+msgstr ""
+
+#: Template/Element/store_contact.ctp:15
+msgid "HORÁRIOS"
+msgstr ""
+
+#: Template/Element/store_contact.ctp:23
+msgid "CONTATO"
+msgstr ""
+
+#: Template/Element/store_demands.ctp:12
+#: Template/Element/store_header.ctp:63
+msgid "Meus Pedidos"
+msgstr ""
+
+#: Template/Element/store_demands.ctp:31
+msgid "Finalizado"
+msgstr ""
+
+#: Template/Element/store_demands.ctp:33
+msgid "Processando"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:2
+msgid "Seu Carrinho"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:2
+msgid "Total"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:2;18
+#: Template/Homes/course_view.ctp:12
+#: Template/Stripes/stripe.ctp:99
+msgid "R$"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:14
+msgid "Quantidade:"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:37
+msgid "Pagar e Finalizar"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:41
+msgid "digite seu CPF para que possamos gerar sua nota fiscal"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:48
+#: Template/StoresDemands/index.ctp:8;78
+msgid "CPF"
+msgstr ""
+
+#: Template/Element/store_digital_cart.ctp:55
+#: Template/Homes/store_contact.ctp:45
+msgid "Enviar"
+msgstr ""
+
+#: Template/Element/store_digital_product.ctp:12
+#: Template/Element/store_fisic_product.ctp:12
+#: Template/Element/store_product_view.ctp:146
+#: Template/Element/store_products(PARA_REMOVER).ctp:15;98
+#: Template/Element/store_products_site_main_page(PARA_REMOVER).ctp:17;39
+#: Template/Homes/product_view.ctp:145
+#: Template/Homes/search.ctp:15;98
+msgid "<i class=\"fa fa-shopping-basket\"></i>"
+msgstr ""
+
+#: Template/Element/store_digital_product.ctp:30
+msgid "Não foram encontrados registros."
+msgstr ""
+
+#: Template/Element/store_footer.ctp:23
+msgid "Verificar Um Certificado"
+msgstr ""
+
+#: Template/Element/store_footer.ctp:24
+msgid "Código do Certificado"
+msgstr ""
+
+#: Template/Element/store_footer.ctp:30
+#: Template/Element/store_header.ctp:46
+#: Template/StoresCourses/courses.ctp:5
+msgid "Buscar"
+msgstr ""
+
+#: Template/Element/store_header.ctp:26
+msgid "Todos os Produtos"
+msgstr ""
+
+#: Template/Element/store_header.ctp:32
+#: Template/StoresContacts/index.ctp:7;45
+msgid "Contato"
+msgstr ""
+
+#: Template/Element/store_header.ctp:35
+msgid "Políticas"
+msgstr ""
+
+#: Template/Element/store_header.ctp:67
+msgid "Painel do Usuário"
+msgstr ""
+
+#: Template/Element/store_header.ctp:72
+msgid "Sair"
+msgstr ""
+
+#: Template/Element/store_header.ctp:81
+msgid "Entrar"
+msgstr ""
+
+#: Template/Element/store_load_users.ctp:13;35;56;78;99;121
+msgid "Sobrenome"
+msgstr ""
+
+#: Template/Element/store_load_users.ctp:14;36;57;79;100;122
+#: Template/Users/view.ctp:14
+msgid "Username"
+msgstr ""
+
+#: Template/Element/store_load_users.ctp:15;37;58;80;101;123
+#: Template/StoresBudgets/view.ctp:10
+#: Template/StoresContacts/edit.ctp:71
+#: Template/StoresContacts/index.ctp:13;51
+#: Template/Users/editcommon.ctp:31
+msgid "E-mail"
+msgstr ""
+
+#: Template/Element/store_media_update.ctp:9
+msgid "Atualizar Nº do Whatsapp"
+msgstr ""
+
+#: Template/Element/store_media_update.ctp:21
+msgid "Atualizar Link do Facebook"
+msgstr ""
+
+#: Template/Element/store_media_update.ctp:36
+msgid "Atualizar Link do Instagram"
+msgstr ""
+
+#: Template/Galerys/edit.ctp:16
+#: Template/Galerys/view.ctp:12
+#: Template/ImageProfiles/add.ctp:5
+#: Template/ImageProfiles/edit.ctp:17
+msgid "List Galerys"
+msgstr ""
+
+#: Template/Galerys/edit.ctp:17
+#: Template/Galerys/view.ctp:14
+msgid "List Images"
+msgstr ""
+
+#: Template/Galerys/edit.ctp:18
+#: Template/Galerys/view.ctp:15
+msgid "New Image"
+msgstr ""
+
+#: Template/Galerys/edit.ctp:24
+#: Template/Galerys/view.ctp:10
+msgid "Edit Galery"
+msgstr ""
+
+#: Template/Galerys/index.ctp:5
+msgid "Nova Galeria"
+msgstr ""
+
+#: Template/Galerys/view.ctp:11
+msgid "Delete Galery"
+msgstr ""
+
+#: Template/Galerys/view.ctp:13
+#: Template/ImageProfiles/add.ctp:6
+#: Template/ImageProfiles/edit.ctp:18
+msgid "New Galery"
+msgstr ""
+
+#: Template/Galerys/view.ctp:39
+msgid "Related Images"
+msgstr ""
+
+#: Template/Galerys/view.ctp:44
+#: Template/ImageProfiles/view.ctp:11
+#: Template/Landpages/view.ctp:43
+msgid "Image"
+msgstr ""
+
+#: Template/Galerys/view.ctp:45
+msgid "Galerys Id"
+msgstr ""
+
+#: Template/Homes/course_view.ctp:21
+msgid "Compartilhar:"
+msgstr ""
+
+#: Template/Homes/course_view.ctp:37
+msgid "Adicionar ao carrinho"
+msgstr ""
+
+#: Template/Homes/course_view.ctp:45
+msgid "<i class=\"fa-solid fa-paper-plane\"></i> Solicitar Afiliação"
+msgstr ""
+
+#: Template/Homes/course_view.ctp:62
+#: Template/StoresCourses/course_view.ctp:89
+#: Template/StoresCourses/view.ctp:76
+msgid "Ementa"
+msgstr ""
+
+#: Template/Homes/edit.ctp:16
+msgid "List Homes"
+msgstr ""
+
+#: Template/Homes/edit.ctp:22
+msgid "Edit Home"
+msgstr ""
+
+#: Template/Homes/site.ctp:80
+msgid "Bem-Vindo"
+msgstr ""
+
+#: Template/Homes/site.ctp:81
+#: Template/StoresCourses/view.ctp:5
+msgid "Atenção"
+msgstr ""
+
+#: Template/Homes/site.ctp:83
+msgid "Estamos em desenvolvimento, essa é uma versão beta fechada."
+msgstr ""
+
+#: Template/Homes/site.ctp:85
+msgid "Missão"
+msgstr ""
+
+#: Template/Homes/site.ctp:87
+msgid "Ajudar você a vender mais, com menos esforço."
+msgstr ""
+
+#: Template/Homes/store_cart_digital.ctp:12;14
+msgid "Carrinho"
+msgstr ""
+
+#: Template/Homes/store_contact.ctp:25
+msgid "Mensagem enviando com sucesso."
+msgstr ""
+
+#: Template/Homes/store_contact.ctp:28
+msgid "Mensagem"
+msgstr ""
+
+#: Template/Homes/store_contact.ctp:31
+msgid "Nome*"
+msgstr ""
+
+#: Template/Homes/store_contact.ctp:34
+msgid "E'mail*"
+msgstr ""
+
+#: Template/Homes/store_contact.ctp:37
+msgid "Mensagem*"
+msgstr ""
+
+#: Template/Homes/terms.ctp:18
+msgid "BEM-VINDO"
+msgstr ""
+
+#: Template/Homes/terms.ctp:19
+msgid "Termos e Políticas"
+msgstr ""
+
+#: Template/Homes/video.ctp:15
+#: Template/StoresVideos/video.ctp:15
+msgid "Marcar Como Visto"
+msgstr ""
+
+#: Template/ImageProfiles/add.ctp:4
+#: Template/ImageProfiles/edit.ctp:16
+msgid "List Image Profiles"
+msgstr ""
+
+#: Template/ImageProfiles/add.ctp:14
+msgid "Add Image Profile"
+msgstr ""
+
+#: Template/ImageProfiles/edit.ctp:26
+msgid "Edit Image Profile"
+msgstr ""
+
+#: Template/ImageProfiles/view.ctp:5
+#: Template/IndexSidebars/view.ctp:8
+msgid "Todos"
+msgstr ""
+
+#: Template/ImageProfiles/view.ctp:21
+msgid "Galery"
+msgstr ""
+
+#: Template/IndexSidebars/index.ctp:36
+#: Template/Users/index.ctp:35
+msgid "Tem certeza que quer deletar o item # {0}?"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:5
+msgid "Editar Sidebar"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:11
+msgid "Novo"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:17
+msgid "Sidebar"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:21
+msgid "Icon"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:29
+#: Template/Users/view.ctp:30
+msgid "Role"
+msgstr ""
+
+#: Template/IndexSidebars/view.ctp:33
+msgid "Category Sidebar"
+msgstr ""
+
+#: Template/Landpages/edit.ctp:16
+#: Template/Landpages/view.ctp:12
+msgid "List Landpages"
+msgstr ""
+
+#: Template/Landpages/edit.ctp:24
+#: Template/Landpages/view.ctp:10
+msgid "Edit Landpage"
+msgstr ""
+
+#: Template/Landpages/iframe copy.ctp:5
+msgid "Nova"
+msgstr ""
+
+#: Template/Landpages/view.ctp:11
+msgid "Delete Landpage"
+msgstr ""
+
+#: Template/Landpages/view.ctp:13
+msgid "New Landpage"
+msgstr ""
+
+#: Template/Layout/default.ctp:34
+msgid "Admin"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/LowsProducts/add.ctp:40
+msgid "Dar Baixa"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:4
+msgid "Baixas"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:5
+msgid "Nova Baixa"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:7
+msgid "Novo Produto"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:18
+#: Template/StoresComments/view.ctp:6
+#: Template/StoresProducts/view.ctp:52
+msgid "Produto"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:22
+msgid "Usuário deu baixa"
+msgstr ""
+
+#: Template/LowsProducts/view.ctp:26
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:10;34
+#: Template/StoresItemsDemands/index.ctp:9;31
+#: Template/StoresProducts/view.ctp:109
+msgid "Quantidade"
+msgstr ""
+
+#: Template/MercadoPago/add.ctp:10
+#: Template/MercadoPago/edit.ctp:16
+#: Template/MercadoPago/view.ctp:12
+msgid "List Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/add.ctp:18
+msgid "Add Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/edit.ctp:24
+#: Template/MercadoPago/view.ctp:10
+msgid "Edit Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/index.ctp:10
+#: Template/MercadoPago/view.ctp:13
+msgid "New Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/index.ctp:16
+msgid "Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/view.ctp:11
+msgid "Delete Mercado Pago"
+msgstr ""
+
+#: Template/MercadoPago/view.ctp:22
+msgid "Publick Key"
+msgstr ""
+
+#: Template/MercadoPago/view.ctp:26
+msgid "Private Key"
+msgstr ""
+
+#: Template/Prompts/add.ctp:10
+#: Template/Prompts/edit.ctp:16
+#: Template/Prompts/view.ctp:12
+#: Template/PromptsImages/add.ctp:11
+#: Template/PromptsImages/edit.ctp:17
+#: Template/PromptsImages/index.ctp:11
+#: Template/PromptsImages/view.ctp:14
+msgid "List Prompts"
+msgstr ""
+
+#: Template/Prompts/add.ctp:13
+#: Template/Prompts/edit.ctp:19
+#: Template/Prompts/view.ctp:16
+msgid "List Prompts Categories"
+msgstr ""
+
+#: Template/Prompts/add.ctp:14
+#: Template/Prompts/edit.ctp:20
+#: Template/Prompts/view.ctp:17
+msgid "New Prompts Category"
+msgstr ""
+
+#: Template/Prompts/add.ctp:20
+msgid "Add Prompt"
+msgstr ""
+
+#: Template/Prompts/edit.ctp:26
+#: Template/Prompts/view.ctp:10
+msgid "Edit Prompt"
+msgstr ""
+
+#: Template/Prompts/index.ctp:6
+msgid "Add New Prompt"
+msgstr ""
+
+#: Template/Prompts/view.ctp:11
+msgid "Delete Prompt"
+msgstr ""
+
+#: Template/Prompts/view.ctp:13
+#: Template/PromptsImages/add.ctp:12
+#: Template/PromptsImages/edit.ctp:18
+#: Template/PromptsImages/index.ctp:12
+#: Template/PromptsImages/view.ctp:15
+msgid "New Prompt"
+msgstr ""
+
+#: Template/Prompts/view.ctp:24
+#: Template/StoresCards/view.ctp:22
+#: Template/Users/view.ctp:6
+msgid "Name"
+msgstr ""
+
+#: Template/Prompts/view.ctp:36
+msgid "Prompts Category"
+msgstr ""
+
+#: Template/Prompts/view.ctp:52
+#: Template/StoresDemands/index.ctp:12;82
+#: Template/StoresDemands/view.ctp:26
+msgid "Status"
+msgstr ""
+
+#: Template/Prompts/view.ctp:53
+#: Template/RequestsCourses/view.ctp:53
+#: Template/RequestsProducts/view.ctp:49
+msgid "Yes"
+msgstr ""
+
+#: Template/Prompts/view.ctp:53
+#: Template/RequestsCourses/view.ctp:53
+#: Template/RequestsProducts/view.ctp:49
+msgid "No"
+msgstr ""
+
+#: Template/Prompts/view.ctp:61
+#: Template/PromptsImages/view.ctp:22
+msgid "Prompt"
+msgstr ""
+
+#: Template/PromptsImages/add.ctp:10
+#: Template/PromptsImages/edit.ctp:16
+#: Template/PromptsImages/view.ctp:12
+msgid "List Prompts Images"
+msgstr ""
+
+#: Template/PromptsImages/add.ctp:18
+msgid "Add Prompts Image"
+msgstr ""
+
+#: Template/PromptsImages/edit.ctp:24
+#: Template/PromptsImages/view.ctp:10
+msgid "Edit Prompts Image"
+msgstr ""
+
+#: Template/PromptsImages/index.ctp:10
+#: Template/PromptsImages/view.ctp:13
+msgid "New Prompts Image"
+msgstr ""
+
+#: Template/PromptsImages/index.ctp:16
+msgid "Prompts Images"
+msgstr ""
+
+#: Template/PromptsImages/view.ctp:11
+msgid "Delete Prompts Image"
+msgstr ""
+
+#: Template/RequestsCourses/add.ctp:10
+#: Template/RequestsCourses/edit.ctp:16
+#: Template/RequestsCourses/view.ctp:12
+msgid "List Requests Courses"
+msgstr ""
+
+#: Template/RequestsCourses/add.ctp:20
+msgid "Add Requests Course"
+msgstr ""
+
+#: Template/RequestsCourses/edit.ctp:26
+#: Template/RequestsCourses/view.ctp:10
+msgid "Edit Requests Course"
+msgstr ""
+
+#: Template/RequestsCourses/index.ctp:10;52
+msgid "Código Do Solicitante"
+msgstr ""
+
+#: Template/RequestsCourses/index.ctp:11;53
+msgid "Verificação"
+msgstr ""
+
+#: Template/RequestsCourses/index.ctp:28
+msgid "<i class=\"fa fa-edit\"></i> Aceitar"
+msgstr ""
+
+#: Template/RequestsCourses/index.ctp:36
+msgid "<i class=\"fa fa-trash\"></i> Retirar Convite"
+msgstr ""
+
+#: Template/RequestsCourses/index.ctp:51
+msgid "Código Afiliado"
+msgstr ""
+
+#: Template/RequestsCourses/view.ctp:11
+msgid "Delete Requests Course"
+msgstr ""
+
+#: Template/RequestsCourses/view.ctp:13
+msgid "New Requests Course"
+msgstr ""
+
+#: Template/RequestsCourses/view.ctp:36
+msgid "Affiliates Id"
+msgstr ""
+
+#: Template/RequestsCourses/view.ctp:40
+#: Template/RequestsProducts/view.ctp:36
+msgid "Requestuser Id"
+msgstr ""
+
+#: Template/RequestsCourses/view.ctp:52
+#: Template/RequestsProducts/view.ctp:48
+msgid "Verification"
+msgstr ""
+
+#: Template/RequestsProducts/add.ctp:10
+#: Template/RequestsProducts/edit.ctp:16
+#: Template/RequestsProducts/view.ctp:12
+msgid "List Requests Products"
+msgstr ""
+
+#: Template/RequestsProducts/add.ctp:11
+#: Template/RequestsProducts/edit.ctp:17
+#: Template/RequestsProducts/index.ctp:11
+#: Template/RequestsProducts/view.ctp:14
+#: Template/StoresCarts/add.ctp:5
+#: Template/StoresCarts/edit.ctp:17
+#: Template/StoresCarts/index.ctp:11
+#: Template/StoresCarts/view.ctp:14
+#: Template/StoresColors/add.ctp:11
+#: Template/StoresColors/edit.ctp:17
+#: Template/StoresColors/index.ctp:11
+#: Template/StoresColors/view.ctp:14
+#: Template/StoresComments/add.ctp:11
+#: Template/StoresComments/edit.ctp:17
+#: Template/StoresImagesProducts/add.ctp:11
+#: Template/StoresImagesProducts/edit.ctp:17
+#: Template/StoresImagesProducts/index.ctp:11
+#: Template/StoresImagesProducts/view.ctp:14
+#: Template/StoresItemsDemands/add.ctp:13
+#: Template/StoresItemsDemands/edit.ctp:19
+#: Template/StoresItemsDemands/view.ctp:16
+msgid "List Stores Products"
+msgstr ""
+
+#: Template/RequestsProducts/add.ctp:12
+#: Template/RequestsProducts/edit.ctp:18
+#: Template/RequestsProducts/index.ctp:12
+#: Template/RequestsProducts/view.ctp:15
+#: Template/StoresCarts/add.ctp:6
+#: Template/StoresCarts/edit.ctp:18
+#: Template/StoresCarts/index.ctp:12
+#: Template/StoresCarts/view.ctp:15
+#: Template/StoresColors/add.ctp:12
+#: Template/StoresColors/edit.ctp:18
+#: Template/StoresColors/index.ctp:12
+#: Template/StoresColors/view.ctp:15
+#: Template/StoresComments/add.ctp:12
+#: Template/StoresComments/edit.ctp:18
+#: Template/StoresImagesProducts/add.ctp:12
+#: Template/StoresImagesProducts/edit.ctp:18
+#: Template/StoresImagesProducts/index.ctp:12
+#: Template/StoresImagesProducts/view.ctp:15
+#: Template/StoresItemsDemands/add.ctp:14
+#: Template/StoresItemsDemands/edit.ctp:20
+#: Template/StoresItemsDemands/view.ctp:17
+msgid "New Stores Product"
+msgstr ""
+
+#: Template/RequestsProducts/add.ctp:20
+msgid "Add Requests Product"
+msgstr ""
+
+#: Template/RequestsProducts/edit.ctp:26
+#: Template/RequestsProducts/view.ctp:10
+msgid "Edit Requests Product"
+msgstr ""
+
+#: Template/RequestsProducts/index.ctp:10
+#: Template/RequestsProducts/view.ctp:13
+msgid "New Requests Product"
+msgstr ""
+
+#: Template/RequestsProducts/index.ctp:18
+msgid "Requests Products"
+msgstr ""
+
+#: Template/RequestsProducts/view.ctp:11
+msgid "Delete Requests Product"
+msgstr ""
+
+#: Template/RequestsProducts/view.ctp:24
+#: Template/StoresCarts/view.ctp:24
+#: Template/StoresColors/view.ctp:26
+#: Template/StoresImagesProducts/view.ctp:22
+#: Template/StoresItemsDemands/view.ctp:28
+msgid "Stores Product"
+msgstr ""
+
+#: Template/Roles/add.ctp:4
+#: Template/Roles/edit.ctp:10
+msgid "Listar Regras"
+msgstr ""
+
+#: Template/Roles/add.ctp:10
+msgid "Adicionar Regra"
+msgstr ""
+
+#: Template/Roles/edit.ctp:7
+#: Template/StoresPartners/index.ctp:43
+msgid "Você tem certeza que quer apagar esse item?"
+msgstr ""
+
+#: Template/Roles/edit.ctp:16
+msgid "Editar Regra"
+msgstr ""
+
+#: Template/Roles/view.ctp:6
+msgid "Código Da Regra"
+msgstr ""
+
+#: Template/Roles/view.ctp:10
+msgid "Regra"
+msgstr ""
+
+#: Template/Roles/view.ctp:14
+msgid "Regra Dois"
+msgstr ""
+
+#: Template/Slides/add.ctp:11
+#: Template/Slides/index.ctp:13
+msgid "Adicionar Slide"
+msgstr ""
+
+#: Template/Slides/add.ctp:20
+#: Template/Slides/edit.ctp:20
+msgid "Código do Slide*"
+msgstr ""
+
+#: Template/Slides/edit.ctp:11
+msgid "Editar Slide"
+msgstr ""
+
+#: Template/Slides/index.ctp:21;57
+msgid "Slide"
+msgstr ""
+
+#: Template/States/add.ctp:16
+msgid "Add State"
+msgstr ""
+
+#: Template/States/edit.ctp:22
+msgid "Edit State"
+msgstr ""
+
+#: Template/States/index.ctp:14
+msgid "States"
+msgstr ""
+
+#: Template/StoresAbouts/add.ctp:4
+msgid "List Stores Abouts"
+msgstr ""
+
+#: Template/StoresAbouts/add.ctp:12
+msgid "Add Stores About"
+msgstr ""
+
+#: Template/StoresAbouts/edit.ctp:11
+#: Template/StoresAbouts/index.ctp:7;29
+#: Template/StoresAbouts/view.ctp:5;24
+msgid "Sobre"
+msgstr ""
+
+#: Template/StoresAddress/add.ctp:10
+#: Template/StoresAddress/edit.ctp:16
+msgid "List Stores Address"
+msgstr ""
+
+#: Template/StoresAddress/add.ctp:11
+#: Template/StoresAddress/edit.ctp:17
+#: Template/StoresDemands/add.ctp:10
+#: Template/StoresItemsDemands/add.ctp:11
+#: Template/StoresItemsDemands/edit.ctp:17
+#: Template/StoresItemsDemands/view.ctp:14
+msgid "List Stores Demands"
+msgstr ""
+
+#: Template/StoresAddress/add.ctp:12
+#: Template/StoresAddress/edit.ctp:18
+#: Template/StoresItemsDemands/add.ctp:12
+#: Template/StoresItemsDemands/edit.ctp:18
+#: Template/StoresItemsDemands/view.ctp:15
+msgid "New Stores Demand"
+msgstr ""
+
+#: Template/StoresAddress/add.ctp:20
+msgid "Add Stores Addres"
+msgstr ""
+
+#: Template/StoresAddress/edit.ctp:26
+msgid "Edit Stores Addres"
+msgstr ""
+
+#: Template/StoresAddress/view.ctp:10
+#: Template/StoresAddress/view_by_demand.ctp:11
+msgid "Bairro"
+msgstr ""
+
+#: Template/StoresAddress/view.ctp:18
+#: Template/StoresAddress/view_by_demand.ctp:19
+msgid "Referência"
+msgstr ""
+
+#: Template/StoresAddress/view.ctp:22
+#: Template/StoresAddress/view_by_demand.ctp:23
+msgid "Número"
+msgstr ""
+
+#: Template/StoresAddress/view.ctp:30
+#: Template/StoresAddress/view_by_demand.ctp:31
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:7;31
+#: Template/StoresItemsDemands/index.ctp:7;29
+msgid "Pedido"
+msgstr ""
+
+#: Template/StoresAddress/view.ctp:42
+#: Template/StoresAddress/view_by_demand.ctp:43
+#: Template/StoresProducts/view.ctp:101
+msgid "Criado"
+msgstr ""
+
+#: Template/StoresBudgets/edit.ctp:16
+msgid "List Stores Budgets"
+msgstr ""
+
+#: Template/StoresBudgets/edit.ctp:22
+msgid "Edit Stores Budget"
+msgstr ""
+
+#: Template/StoresBudgets/view.ctp:18
+msgid "Orçamento"
+msgstr ""
+
+#: Template/StoresCards/add.ctp:10
+#: Template/StoresCards/edit.ctp:16
+#: Template/StoresCards/view.ctp:12
+msgid "List Stores Cards"
+msgstr ""
+
+#: Template/StoresCards/add.ctp:18
+msgid "Add Stores Card"
+msgstr ""
+
+#: Template/StoresCards/edit.ctp:24
+#: Template/StoresCards/view.ctp:10
+msgid "Edit Stores Card"
+msgstr ""
+
+#: Template/StoresCards/index.ctp:10
+#: Template/StoresCards/view.ctp:13
+msgid "New Stores Card"
+msgstr ""
+
+#: Template/StoresCards/index.ctp:16
+msgid "Stores Cards"
+msgstr ""
+
+#: Template/StoresCards/view.ctp:11
+msgid "Delete Stores Card"
+msgstr ""
+
+#: Template/StoresCards/view.ctp:26
+msgid "Number"
+msgstr ""
+
+#: Template/StoresCards/view.ctp:30
+msgid "Date Expires"
+msgstr ""
+
+#: Template/StoresCards/view.ctp:34
+msgid "Security Code"
+msgstr ""
+
+#: Template/StoresCards/view.ctp:38
+msgid "Postal Code"
+msgstr ""
+
+#: Template/StoresCarts/add.ctp:4
+#: Template/StoresCarts/edit.ctp:16
+#: Template/StoresCarts/view.ctp:12
+msgid "List Stores Carts"
+msgstr ""
+
+#: Template/StoresCarts/add.ctp:14
+msgid "Add Stores Cart"
+msgstr ""
+
+#: Template/StoresCarts/edit.ctp:26
+#: Template/StoresCarts/view.ctp:10
+msgid "Edit Stores Cart"
+msgstr ""
+
+#: Template/StoresCarts/index.ctp:10
+#: Template/StoresCarts/view.ctp:13
+msgid "New Stores Cart"
+msgstr ""
+
+#: Template/StoresCarts/index.ctp:18
+msgid "Stores Carts"
+msgstr ""
+
+#: Template/StoresCarts/view.ctp:11
+msgid "Delete Stores Cart"
+msgstr ""
+
+#: Template/StoresCarts/view.ctp:28
+#: Template/StoresItemsDemands/view.ctp:32
+msgid "Quantity"
+msgstr ""
+
+#: Template/StoresCategories/view.ctp:6
+msgid "Editar Index"
+msgstr ""
+
+#: Template/StoresColors/add.ctp:10
+#: Template/StoresColors/edit.ctp:16
+#: Template/StoresColors/view.ctp:12
+msgid "List Stores Colors"
+msgstr ""
+
+#: Template/StoresColors/add.ctp:18
+msgid "Add Stores Color"
+msgstr ""
+
+#: Template/StoresColors/edit.ctp:24
+#: Template/StoresColors/view.ctp:10
+msgid "Edit Stores Color"
+msgstr ""
+
+#: Template/StoresColors/index.ctp:10
+#: Template/StoresColors/view.ctp:13
+msgid "New Stores Color"
+msgstr ""
+
+#: Template/StoresColors/index.ctp:16
+msgid "Stores Colors"
+msgstr ""
+
+#: Template/StoresColors/view.ctp:11
+msgid "Delete Stores Color"
+msgstr ""
+
+#: Template/StoresColors/view.ctp:22
+msgid "Color"
+msgstr ""
+
+#: Template/StoresColors/view.ctp:30
+msgid "Product Flag Code"
+msgstr ""
+
+#: Template/StoresComments/add.ctp:10
+#: Template/StoresComments/edit.ctp:16
+msgid "List Stores Comments"
+msgstr ""
+
+#: Template/StoresComments/add.ctp:20
+msgid "Add Stores Comment"
+msgstr ""
+
+#: Template/StoresComments/edit.ctp:26
+msgid "Edit Stores Comment"
+msgstr ""
+
+#: Template/StoresComments/view.ctp:18
+msgid "Comentário"
+msgstr ""
+
+#: Template/StoresConfigs/add.ctp:10
+#: Template/StoresConfigs/edit.ctp:16
+#: Template/StoresConfigs/view.ctp:12
+msgid "List Stores Configs"
+msgstr ""
+
+#: Template/StoresConfigs/add.ctp:18
+msgid "Add Stores Config"
+msgstr ""
+
+#: Template/StoresConfigs/edit.ctp:24
+#: Template/StoresConfigs/view.ctp:10
+msgid "Edit Stores Config"
+msgstr ""
+
+#: Template/StoresConfigs/index.ctp:10
+#: Template/StoresConfigs/view.ctp:13
+msgid "New Stores Config"
+msgstr ""
+
+#: Template/StoresConfigs/index.ctp:16
+msgid "Stores Configs"
+msgstr ""
+
+#: Template/StoresConfigs/view.ctp:11
+msgid "Delete Stores Config"
+msgstr ""
+
+#: Template/StoresConfigs/view.ctp:22
+msgid "Cep"
+msgstr ""
+
+#: Template/StoresContacts/add.ctp:10
+#: Template/StoresContacts/view.ctp:12
+msgid "List Stores Contacts"
+msgstr ""
+
+#: Template/StoresContacts/add.ctp:18
+msgid "Add Stores Contact"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:4
+msgid "Editar Contato"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:11
+msgid "Contatos"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:21
+#: Template/StoresContacts/index.ctp:8;46
+#: Template/StoresFinalcategories/view.ctp:17
+#: Template/StoresTitles/index.ctp:7;29
+#: Template/StoresVideos/index.ctp:12;71
+#: Template/StoresVideos/view.ctp:6
+msgid "Título"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:31
+#: Template/StoresCourses/edit.ctp:40
+msgid "Subtítulo"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:41
+#: Template/StoresContacts/index.ctp:10;48
+msgid "Local"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:51
+#: Template/StoresContacts/index.ctp:11;49
+msgid "Fone"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:61
+#: Template/StoresContacts/index.ctp:12;50
+msgid "Celular"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:81
+#: Template/StoresContacts/index.ctp:14;52
+msgid "E-mail 2"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:91
+msgid "Mapa"
+msgstr ""
+
+#: Template/StoresContacts/edit.ctp:107
+msgid "Informações"
+msgstr ""
+
+#: Template/StoresContacts/index.ctp:9;47
+msgid "Subtitulo"
+msgstr ""
+
+#: Template/StoresContacts/view.ctp:10
+msgid "Edit Stores Contact"
+msgstr ""
+
+#: Template/StoresContacts/view.ctp:11
+msgid "Delete Stores Contact"
+msgstr ""
+
+#: Template/StoresContacts/view.ctp:13
+msgid "New Stores Contact"
+msgstr ""
+
+#: Template/StoresContacts/view.ctp:22
+msgid "Contact"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:6
+msgid "Total de Aulas"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:17
+msgid "Percentual Concluído"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:29
+msgid "Aulas Vistas"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:41
+#: Template/StoresCourses/index.ctp:18;77
+msgid "Aulas"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:44
+msgid "Slides"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:49
+msgid "Gerar Certificado"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:69
+#: Template/StoresCourses/index.ctp:15;74
+msgid "Tema"
+msgstr ""
+
+#: Template/StoresCourses/course_view.ctp:73
+#: Template/StoresVideos/view.ctp:34
+msgid "Foto"
+msgstr ""
+
+#: Template/StoresCourses/courses.ctp:32
+#: Template/StoresItemsDemands/get_Item_By_Demand_Id.ctp:9;33
+#: Template/StoresItemsDemands/index.ctp:8;30
+msgid "Produto Digital"
+msgstr ""
+
+#: Template/StoresCourses/courses.ctp:49
+msgid "Ver Detalhes"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:9
+msgid "Categorias*"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:54
+msgid "Autor*"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:68
+msgid "Tema*"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:96
+msgid "Comissão"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:109
+msgid "Preço*"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:171
+msgid "Aceita Afiliação"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:181
+msgid "Afiliação Aberta"
+msgstr ""
+
+#: Template/StoresCourses/edit.ctp:191
+msgid "Demonstração"
+msgstr ""
+
+#: Template/StoresCourses/edit_photo.ctp:7
+msgid "Foto*"
+msgstr ""
+
+#: Template/StoresCourses/index.ctp:16;75
+msgid "Imagem"
+msgstr ""
+
+#: Template/StoresCourses/index.ctp:32
+msgid "Todas as Aulas"
+msgstr ""
+
+#: Template/StoresCourses/videos.ctp:25
+msgid "Assistir"
+msgstr ""
+
+#: Template/StoresDemands/add.ctp:18
+msgid "Add Stores Demand"
+msgstr ""
+
+#: Template/StoresDemands/edit.ctp:4
+msgid "Listar Pedidos"
+msgstr ""
+
+#: Template/StoresDemands/edit.ctp:10
+msgid "Editar Pedido"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:9;79
+msgid "Valor"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:27
+msgid "Processado"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:29
+msgid "Processando.."
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:39
+msgid "Atualizar Status"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:46
+msgid "<i class=\"fa fa-eye\"></i> Ver"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:56
+msgid "<i class=\"fa fa-eye\"></i> Itens do Pedido"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:94
+msgid "Endereço de Entrega"
+msgstr ""
+
+#: Template/StoresDemands/index.ctp:102
+msgid "Fechar"
+msgstr ""
+
+#: Template/StoresDemands/view.ctp:10
+msgid "User ID"
+msgstr ""
+
+#: Template/StoresDemands/view.ctp:18
+msgid "Created At"
+msgstr ""
+
+#: Template/StoresDemands/view.ctp:22
+msgid "Last Modified"
+msgstr ""
+
+#: Template/StoresDemands/view.ctp:29
+msgid "Processed"
+msgstr ""
+
+#: Template/StoresDemands/view.ctp:31
+msgid "Processing.."
+msgstr ""
+
+#: Template/StoresFinalcategories/index.ctp:37
+#: Template/StoresTerms/index.ctp:31
+#: Template/StoresTerms/view.ctp:15
+msgid "Tem certeza que deseja apagar esse item?"
+msgstr ""
+
+#: Template/StoresFinalcategories/view.ctp:21
+#: Template/StoresSubcategories/view.ctp:17
+msgid "Subcategoria"
+msgstr ""
+
+#: Template/StoresFooters/add.ctp:4
+msgid "Footer"
+msgstr ""
+
+#: Template/StoresFooters/add.ctp:10
+msgid "Add Stores Footer"
+msgstr ""
+
+#: Template/StoresFooters/edit.ctp:4
+msgid "Editar Rodapé"
+msgstr ""
+
+#: Template/StoresFooters/edit.ctp:14
+#: Template/StoresFooters/view.ctp:10
+msgid "Rodapé"
+msgstr ""
+
+#: Template/StoresFooters/index.ctp:6;25
+#: Template/StoresSliders/index.ctp:6;34
+msgid "código"
+msgstr ""
+
+#: Template/StoresFooters/index.ctp:7;26
+msgid "rodapé"
+msgstr ""
+
+#: Template/StoresHours/add.ctp:10
+msgid "List Stores Hours"
+msgstr ""
+
+#: Template/StoresHours/add.ctp:18
+msgid "Add Stores Hour"
+msgstr ""
+
+#: Template/StoresHours/view.ctp:10
+msgid "Horário"
+msgstr ""
+
+#: Template/StoresImagesProducts/add.ctp:10
+#: Template/StoresImagesProducts/edit.ctp:16
+#: Template/StoresImagesProducts/view.ctp:12
+msgid "List Stores Images Products"
+msgstr ""
+
+#: Template/StoresImagesProducts/add.ctp:18
+msgid "Add Stores Images Product"
+msgstr ""
+
+#: Template/StoresImagesProducts/edit.ctp:24
+#: Template/StoresImagesProducts/view.ctp:10
+msgid "Edit Stores Images Product"
+msgstr ""
+
+#: Template/StoresImagesProducts/index.ctp:10
+#: Template/StoresImagesProducts/view.ctp:13
+msgid "New Stores Images Product"
+msgstr ""
+
+#: Template/StoresImagesProducts/index.ctp:16
+msgid "Stores Images Products"
+msgstr ""
+
+#: Template/StoresImagesProducts/view.ctp:11
+msgid "Delete Stores Images Product"
+msgstr ""
+
+#: Template/StoresItemsDemands/add.ctp:10
+#: Template/StoresItemsDemands/edit.ctp:16
+#: Template/StoresItemsDemands/view.ctp:12
+msgid "List Stores Items Demands"
+msgstr ""
+
+#: Template/StoresItemsDemands/add.ctp:20
+msgid "Add Stores Items Demand"
+msgstr ""
+
+#: Template/StoresItemsDemands/edit.ctp:26
+#: Template/StoresItemsDemands/view.ctp:10
+msgid "Edit Stores Items Demand"
+msgstr ""
+
+#: Template/StoresItemsDemands/view.ctp:11
+msgid "Delete Stores Items Demand"
+msgstr ""
+
+#: Template/StoresItemsDemands/view.ctp:13
+msgid "New Stores Items Demand"
+msgstr ""
+
+#: Template/StoresItemsDemands/view.ctp:24
+msgid "Stores Demand"
+msgstr ""
+
+#: Template/StoresLogos/add.ctp:4
+msgid "Ver Logo"
+msgstr ""
+
+#: Template/StoresLogos/add.ctp:10
+msgid "Adicionar Logo"
+msgstr ""
+
+#: Template/StoresLogos/edit.ctp:4
+msgid "Editar Logo"
+msgstr ""
+
+#: Template/StoresLogos/index.ctp:7;35
+#: Template/StoresLogos/view.ctp:20
+#: Template/StoresPages/view.ctp:24
+#: Template/StoresPartners/index.ctp:20;54
+msgid "Logo"
+msgstr ""
+
+#: Template/StoresLogos/index.ctp:8;36
+msgid "Criada Em"
+msgstr ""
+
+#: Template/StoresLogos/view.ctp:10
+msgid "Edit Stores Logo"
+msgstr ""
+
+#: Template/StoresLogos/view.ctp:11
+msgid "Delete Stores Logo"
+msgstr ""
+
+#: Template/StoresLogos/view.ctp:12
+msgid "List Stores Logos"
+msgstr ""
+
+#: Template/StoresLogos/view.ctp:13
+msgid "New Stores Logo"
+msgstr ""
+
+#: Template/StoresMenus/add.ctp:11
+msgid "Adicionar Ementa"
+msgstr ""
+
+#: Template/StoresMenus/add.ctp:24
+#: Template/StoresMenus/edit.ctp:24
+msgid "Ementa*"
+msgstr ""
+
+#: Template/StoresMenus/edit.ctp:11
+msgid "Editar Ementa"
+msgstr ""
+
+#: Template/StoresMenus/index.ctp:8
+msgid "Adicionar Nova Ementa"
+msgstr ""
+
+#: Template/StoresMenus/index.ctp:16;47
+#: Template/StoresMenus/view.ctp:26
+msgid "Menu"
+msgstr ""
+
+#: Template/StoresMenus/view.ctp:10
+msgid "Edit Stores Menu"
+msgstr ""
+
+#: Template/StoresMenus/view.ctp:11
+msgid "Delete Stores Menu"
+msgstr ""
+
+#: Template/StoresMessages/add.ctp:10
+#: Template/StoresMessages/edit.ctp:16
+msgid "List Stores Messages"
+msgstr ""
+
+#: Template/StoresMessages/add.ctp:16
+msgid "Add Stores Message"
+msgstr ""
+
+#: Template/StoresMessages/edit.ctp:22
+msgid "Edit Stores Message"
+msgstr ""
+
+#: Template/StoresPages/add.ctp:10
+#: Template/StoresPages/edit.ctp:16
+#: Template/StoresPages/view.ctp:12
+msgid "List Stores Pages"
+msgstr ""
+
+#: Template/StoresPages/add.ctp:16
+msgid "Add Stores Page"
+msgstr ""
+
+#: Template/StoresPages/edit.ctp:22
+#: Template/StoresPages/view.ctp:10
+msgid "Edit Stores Page"
+msgstr ""
+
+#: Template/StoresPages/index.ctp:10
+#: Template/StoresPages/view.ctp:13
+msgid "New Stores Page"
+msgstr ""
+
+#: Template/StoresPages/index.ctp:14
+msgid "Stores Pages"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:11
+msgid "Delete Stores Page"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:28
+msgid "About Title"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:32
+msgid "Team Title"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:36
+msgid "Contact Title"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:40
+msgid "Price Title"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:49
+msgid "About"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:53
+msgid "Mission"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:57
+msgid "About Subtitle"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:61
+msgid "Team Subtitle"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:65
+msgid "Contact Subtitle"
+msgstr ""
+
+#: Template/StoresPages/view.ctp:69
+msgid "Price Subtitle"
+msgstr ""
+
+#: Template/StoresPartners/add.ctp:11
+msgid "Adicionar Novo Parceiro"
+msgstr ""
+
+#: Template/StoresPartners/add.ctp:19
+#: Template/StoresPartners/edit.ctp:19
+#: Template/StoresPartners/index.ctp:21;55
+msgid "Parceiro"
+msgstr ""
+
+#: Template/StoresPartners/edit.ctp:11
+msgid "Editar Parceiro"
+msgstr ""
+
+#: Template/StoresPartners/index.ctp:23;57
+#: Template/StoresSubcategories/view.ctp:29
+#: Template/StoresSuperpass/index.ctp:16;32
+msgid "Última Atualização"
+msgstr ""
+
+#: Template/StoresPartners/view.ctp:11
+msgid "Edit Stores Partner"
+msgstr ""
+
+#: Template/StoresPartners/view.ctp:12
+msgid "Delete Stores Partner"
+msgstr ""
+
+#: Template/StoresPartners/view.ctp:13
+msgid "List Stores Partners"
+msgstr ""
+
+#: Template/StoresPartners/view.ctp:14
+msgid "New Stores Partner"
+msgstr ""
+
+#: Template/StoresPartners/view.ctp:23
+msgid "Partner"
+msgstr ""
+
+#: Template/StoresProducts/add_new_product_color.ctp:175
+msgid "Adicionar Novo Produto"
+msgstr ""
+
+#: Template/StoresProducts/edit_barcode.ctp:5
+#: Template/StoresProducts/index.ctp:83
+#: Template/StoresProducts/relationship_products.ctp:80
+#: Template/StoresProducts/view.ctp:18
+msgid "Editar Código de Barras"
+msgstr ""
+
+#: Template/StoresProducts/edit_color.ctp:38
+#: Template/StoresProducts/index.ctp:93
+#: Template/StoresProducts/view.ctp:24
+msgid "Editar Cor"
+msgstr ""
+
+#: Template/StoresProducts/edit_photo.ctp:10
+msgid "Editar Produto"
+msgstr ""
+
+#: Template/StoresProducts/edit_qrcode.ctp:5
+#: Template/StoresProducts/index.ctp:88
+#: Template/StoresProducts/relationship_products.ctp:81
+#: Template/StoresProducts/view.ctp:21
+msgid "Editar QrCode"
+msgstr ""
+
+#: Template/StoresProducts/edit_quantity.ctp:17
+#: Template/StoresProducts/index.ctp:100
+#: Template/StoresProducts/view.ctp:29
+msgid "Editar Quantidade"
+msgstr ""
+
+#: Template/StoresProducts/index.ctp:73
+#: Template/StoresProducts/view.ctp:12
+msgid "Adicionar de Outra Cor"
+msgstr ""
+
+#: Template/StoresProducts/index.ctp:78
+#: Template/StoresProducts/view.ctp:15
+msgid "Editar Fotos"
+msgstr ""
+
+#: Template/StoresProducts/index.ctp:105
+#: Template/StoresProducts/view.ctp:35
+msgid "Imprimir QrCode como Imagem"
+msgstr ""
+
+#: Template/StoresProducts/index.ctp:110
+#: Template/StoresProducts/relationship_products.ctp:82
+#: Template/StoresProducts/view.ctp:38
+msgid "Remover Produto"
+msgstr ""
+
+#: Template/StoresProducts/relationship_products.ctp:79
+#: Template/StoresVideos/index.ctp:17;76
+msgid "Editar Foto"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:6
+msgid "Ver Todos os Produtos"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:32
+msgid "Imprimir QrCode"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:44
+msgid "Código de Barras"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:48
+msgid "QrCode"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:56
+msgid "Cor"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:79
+msgid "Preço"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:97
+msgid "Códgio do Produto"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:105
+msgid "Modificado"
+msgstr ""
+
+#: Template/StoresProducts/view.ctp:117
+msgid "Online"
+msgstr ""
+
+#: Template/StoresSliders/add.ctp:4
+msgid "Listar Banners"
+msgstr ""
+
+#: Template/StoresSliders/add.ctp:11
+msgid "Adicionar Banner"
+msgstr ""
+
+#: Template/StoresSliders/edit.ctp:4
+#: Template/StoresStripeConfigs/edit.ctp:4
+msgid "Editar Banner"
+msgstr ""
+
+#: Template/StoresSliders/edit.ctp:11
+msgid "Banner*"
+msgstr ""
+
+#: Template/StoresSliders/edit.ctp:16
+#: Template/StoresTitles/edit.ctp:18
+#: Template/StoresVideos/edit.ctp:13
+msgid "Título*"
+msgstr ""
+
+#: Template/StoresSliders/edit.ctp:21
+msgid "Subtitulo*"
+msgstr ""
+
+#: Template/StoresSliders/index.ctp:7;35
+msgid "slider"
+msgstr ""
+
+#: Template/StoresSliders/index.ctp:8;36
+msgid "título"
+msgstr ""
+
+#: Template/StoresSliders/index.ctp:9;37
+msgid "subtitulo"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:10
+msgid "Edit Stores Slider"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:11
+msgid "Delete Stores Slider"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:12
+msgid "List Stores Sliders"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:13
+msgid "New Stores Slider"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:22
+msgid "Slider"
+msgstr ""
+
+#: Template/StoresSliders/view.ctp:30
+msgid "Subtitle"
+msgstr ""
+
+#: Template/StoresStripeConfigs/add.ctp:4
+#: Template/StoresStripeConfigs/view.ctp:6
+msgid "Listar Chaves"
+msgstr ""
+
+#: Template/StoresStripeConfigs/add.ctp:10
+#: Template/StoresStripeConfigs/index.ctp:7
+msgid "Adicionar Chaves"
+msgstr ""
+
+#: Template/StoresStripeConfigs/add.ctp:11
+#: Template/StoresStripeConfigs/edit.ctp:10
+msgid "Chave Pública*"
+msgstr ""
+
+#: Template/StoresStripeConfigs/add.ctp:13
+#: Template/StoresStripeConfigs/edit.ctp:12
+msgid "Chave Secreta*"
+msgstr ""
+
+#: Template/StoresStripeConfigs/index.ctp:19;57
+#: Template/StoresStripeConfigs/view.ctp:12
+msgid "Chave Pública"
+msgstr ""
+
+#: Template/StoresStripeConfigs/index.ctp:20;58
+#: Template/StoresStripeConfigs/view.ctp:16
+msgid "Chave Secreta"
+msgstr ""
+
+#: Template/StoresStripeConfigs/login.ctp:4
+#: Template/Users/login.ctp:7
+msgid "Login"
+msgstr ""
+
+#: Template/StoresStripeConfigs/login.ctp:10
+msgid "Login Super Usuário"
+msgstr ""
+
+#: Template/StoresStripeConfigs/login.ctp:11
+msgid "Superpass*"
+msgstr ""
+
+#: Template/StoresStripeConfigs/login.ctp:15
+msgid "Logar"
+msgstr ""
+
+#: Template/StoresStripeConfigs/view.ctp:4
+msgid "Editar Chaves"
+msgstr ""
+
+#: Template/StoresStripeConfigs/view.ctp:5
+msgid "Deletar Chaves"
+msgstr ""
+
+#: Template/StoresStripeConfigs/view.ctp:5
+msgid "Você tem certeza que quer apagar as chaves # {0}?"
+msgstr ""
+
+#: Template/StoresSuperpass/add.ctp:4
+#: Template/StoresSuperpass/edit.ctp:4
+msgid "Listar Superpass"
+msgstr ""
+
+#: Template/StoresSuperpass/add.ctp:10
+#: Template/StoresSuperpass/index.ctp:6
+msgid "Adicionar Superpass"
+msgstr ""
+
+#: Template/StoresSuperpass/edit.ctp:10
+msgid "Editar Superpass"
+msgstr ""
+
+#: Template/StoresSuperpass/index.ctp:14;30
+msgid "Superpass"
+msgstr ""
+
+#: Template/StoresTerms/add.ctp:11
+#: Template/StoresTerms/index.ctp:6
+msgid "Adicionar Termos"
+msgstr ""
+
+#: Template/StoresTerms/add.ctp:20
+#: Template/StoresTerms/edit.ctp:20
+#: Template/StoresTerms/index.ctp:14
+#: Template/StoresTerms/view.ctp:41
+msgid "Termos"
+msgstr ""
+
+#: Template/StoresTerms/edit.ctp:11
+msgid "Editar Termos"
+msgstr ""
+
+#: Template/StoresTerms/view.ctp:18
+msgid "Todos os Termos"
+msgstr ""
+
+#: Template/StoresTerms/view.ctp:28
+msgid "Usúario que Criou"
+msgstr ""
+
+#: Template/StoresTitles/edit.ctp:11
+msgid "Editar Título"
+msgstr ""
+
+#: Template/StoresVideos/edit.ctp:4
+msgid "Adicionar Novo Video"
+msgstr ""
+
+#: Template/StoresVideos/edit.ctp:27
+msgid "Video*"
+msgstr ""
+
+#: Template/StoresVideos/edit.ctp:55
+msgid "Público"
+msgstr ""
+
+#: Template/StoresVideos/index.ctp:16;75
+msgid "A. para Download"
+msgstr ""
+
+#: Template/StoresVideos/index.ctp:63
+msgid "Você tem certeza que deseja apagar esse item?"
+msgstr ""
+
+#: Template/StoresVideos/view.ctp:30
+msgid "Útima Modificação"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:37
+msgid "Pagamento"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:54
+msgid "Nome no cartão"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:67
+msgid "Número do cartão"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:75
+msgid "CVC"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:80
+msgid "Mês de expiração"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:85
+msgid "Ano de expiração"
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:93
+msgid "Por favor corrija os erros e tente novamente."
+msgstr ""
+
+#: Template/Stripes/stripe.ctp:99
+msgid "Pagar agora"
+msgstr ""
+
+#: Template/Tablesroots/view.ctp:10
+msgid "Edit Tablesroot"
+msgstr ""
+
+#: Template/Tablesroots/view.ctp:11
+msgid "Delete Tablesroot"
+msgstr ""
+
+#: Template/Tablesroots/view.ctp:12
+msgid "List Tablesroots"
+msgstr ""
+
+#: Template/Tablesroots/view.ctp:13
+msgid "New Tablesroot"
+msgstr ""
+
+#: Template/Tablesroots/view.ctp:24
+msgid "Text"
+msgstr ""
+
+#: Template/Users/add.ctp:11
+msgid "List Roles"
+msgstr ""
+
+#: Template/Users/add.ctp:12
+msgid "New Role"
+msgstr ""
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/editcommon.ctp:5
+msgid "Erro"
+msgstr ""
+
+#: Template/Users/editcommon.ctp:21
+#: Template/Users/profile.ctp:26;35
+msgid "Editar Usuário"
+msgstr ""
+
+#: Template/Users/login.ctp:22
+msgid "Log In"
+msgstr ""
+
+#: Template/Users/login.ctp:27
+msgid "Cadastro"
+msgstr ""
+
+#: Template/Users/login.ctp:56
+msgid "Eu concordo com os"
+msgstr ""
+
+#: Template/Users/login.ctp:56
+msgid "termons e condições"
+msgstr ""
+
+#: Template/Users/login.ctp:59
+msgid "Cadastrar"
+msgstr ""
+
+#: Template/Users/mainmenu.ctp:62
+msgid "Register Tables Root"
+msgstr ""
+
+#: Template/Users/mainmenu.ctp:69
+msgid "Register Tables Admin"
+msgstr ""
+
+#: Template/Users/mainmenu.ctp:76
+msgid "Register Tables Colibri"
+msgstr ""
+
+#: Template/Users/mainmenu.ctp:83
+msgid "Register Tables Tubex"
+msgstr ""
+
+#: Template/Users/mainmenu.ctp:90
+msgid "Register Tables My Precious"
+msgstr ""
+
+#: Template/Users/profile.ctp:5
+msgid "Sucesso"
+msgstr ""
+
+#: Template/Users/profile.ctp:71
+msgid "Não Informado"
+msgstr ""
+
+#: Template/Users/update_password.ctp:8
+msgid "Edit Password"
+msgstr ""
+
+#: Template/Users/view.ctp:10
+msgid "Lastname"
+msgstr ""
+
+#: Template/Users/view.ctp:22
+msgid "Cellphone"
+msgstr ""
+
+#: Template/Users/view.ctp:26
+msgid "Password"
+msgstr ""
+
+#: Template/VideosVieweds/add.ctp:10
+#: Template/VideosVieweds/edit.ctp:16
+#: Template/VideosVieweds/view.ctp:12
+msgid "List Videos Vieweds"
+msgstr ""
+
+#: Template/VideosVieweds/add.ctp:22
+msgid "Add Videos Viewed"
+msgstr ""
+
+#: Template/VideosVieweds/edit.ctp:28
+#: Template/VideosVieweds/view.ctp:10
+msgid "Edit Videos Viewed"
+msgstr ""
+
+#: Template/VideosVieweds/index.ctp:10
+#: Template/VideosVieweds/view.ctp:13
+msgid "New Videos Viewed"
+msgstr ""
+
+#: Template/VideosVieweds/index.ctp:20
+msgid "Videos Vieweds"
+msgstr ""
+
+#: Template/VideosVieweds/view.ctp:11
+msgid "Delete Videos Viewed"
+msgstr ""
+

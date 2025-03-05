@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Salvar Demanda</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+
+<body>
+    <h1>Salvar Demanda</h1>
+
+    <button id="salvarButton">Salvar</button>
+
+    <script>
+        document.getElementById('salvarButton').addEventListener('click', function () {
+            // Obtém os valores dos campos de entrada
+            const nome = 'Victor Hugo';
+            const fone = '91985553265';
+            const created = 'teste';
+            const description = 'teste';
+            const chat = 'chat';
+
+            // Cria o objeto de dados
+            const data = {
+                nome: nome,
+                fone: fone,
+                created: created,
+                description: description,
+                chat: chat,
+            };
+
+            // Envia a requisição POST usando Axios
+            axios.post('https://redcolibriapi.focux.me/Demands/add.json', data)
+                .then(function (response) {
+                    console.log(response.data.message); // Exibe a resposta da API no console
+                    // Faça o que for necessário com a resposta da API, por exemplo, redirecionar para outra página
+                })
+                .catch(function (error) {
+                    console.error(error); // Exibe o erro no console
+                    // Faça o tratamento do erro conforme necessário
+                });
+        });
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+<table id="general" class="table table-bordered table-sm table-striped dataTable dtr-inline table-hover">
